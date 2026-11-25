@@ -1,0 +1,788 @@
+==========================================================================================
+THE LOST WORLD (CHAPTERS 1-5) — MODEL ANSWERS
+Egyptian Baccalaureate English — Year 2, Term 1 (2026-2027)
+==========================================================================================
+Numbering mirrors The_Lost_World_Ch1-5_Questions.txt exactly ([CHx-Qn] IDs).
+Many answers are the books' own model answers (GEM / El-Moaser), lightly cleaned; the rest were
+written in the same style. JRE answers follow the Justification -> Reason -> Evidence structure.
+CONTENTS: Ch1: 54, Ch2: 55, Ch3: 52, Ch4: 62, Ch5: 50 — total 273 answers.
+==========================================================================================
+
+THE LOST WORLD (Chapters 1-5) — MODEL ANSWERS
+==========================================================================================
+Companion answers file to Novel_Q.txt — model answers for all 273 curated questions with IDENTICAL
+numbering ([CHx-Qn] per chapter; sections mirror the questions file: Comprehension → Analysis →
+Critical / JRE → Quotes / MCQ / T-F).
+Answer formats: Comprehension = direct answer (1–3 sentences); Analysis = interpretation (3–5
+sentences); Critical = claim, reason, evidence and balanced conclusion (3–5 sentences); JRE =
+structured Justification / Reason / Evidence; Quotes = meaning and context (2–4 sentences).
+Where the source supplements (GEM, El-Moaser, Giants) provide their own model answers, those
+answers are reused/adapted; the rest are written to be factually consistent with the story.
+==========================================================================================
+
+--- CHAPTER 1: A DREAM OF ADVENTURE ---
+
+◆ Comprehension
+
+[CH1-Q1] ANSWER: Malone asks Mr. McArdle for a dangerous assignment because he wants to prove that he is brave and to give his safe, ordinary life a real purpose. Gladys has just refused his marriage proposal, saying she could only love a man who has faced danger, so Malone is looking for adventure, a test of courage, and a difficult story worthy of a brave man.
+
+[CH1-Q2] ANSWER: Malone wanted a dangerous, out-of-the-ordinary challenge — a real test of courage that would take him out of safe, everyday London life, such as a risky assignment in some unknown or troubled part of the world. He did not want another ordinary newspaper task; he wanted something that would make him prove himself as a brave man.
+
+[CH1-Q3] ANSWER: Mr. McArdle was the experienced news editor of the Daily Gazette, the London paper where Malone worked as a young reporter. He was a kind, shrewd older man who listened to Malone's request for a dangerous assignment and pointed him toward Professor Challenger and his strange South American story.
+
+[CH1-Q4] ANSWER: At the beginning of the chapter Malone is a twenty-three-year-old reporter on the Daily Gazette in London. His life is safe, comfortable and ordinary: he writes for the paper, enjoys his friends at the Savage Club, and is in love with Gladys Hungerton. Yet he is not satisfied with it — he longs for adventure and feels his life needs a greater purpose.
+
+[CH1-Q5] ANSWER: Gladys refuses Malone because she says she could only love a brave man — one who has faced danger, travelled into the unknown and done something great to prove his courage. She wants a man whose courage is part of his character, not something acted out to win admiration; Malone, with his safe London life, has not yet earned her love.
+
+[CH1-Q6] ANSWER: By true courage Gladys means bravery that comes from character: a truly brave man acts because courage is part of what he is — he faces danger and does great deeds for their own sake, not to impress anyone. To her, a deed done only to win a woman's approval is not real courage.
+
+[CH1-Q7] ANSWER: Mr. McArdle tells Malone that Professor Challenger is a famous zoologist who has recently returned from South America with an extraordinary story of unknown, possibly prehistoric animals. The Professor refuses to give clear details about what he found or where, and he is violently hostile to journalists, so no one can decide whether he is mistaken or lying. McArdle challenges Malone to find out which it is.
+
+[CH1-Q8] ANSWER: Professor Challenger is famous as a brilliant scientist and zoologist with a great scientific reputation. Many people are interested in his South American story because it claims that unknown animals — creatures science believes extinct — may still be alive, which would be one of the greatest discoveries of the age; yet he gives no clear details and is known to throw journalists out of his house, so curiosity and controversy surround him.
+
+[CH1-Q9] ANSWER: Challenger is brilliant but very difficult. He argues with other scientists, has a furious temper, and physically throws journalists out of his house. In addition, his extraordinary claims are made without clear public proof, so people doubt him and his bad reputation grows.
+
+[CH1-Q10] ANSWER: Challenger refuses to reveal the exact location of his discoveries because he does not trust others and wants to protect his discovery from people who laughed at him and accused him of faking his evidence. This secrecy is understandable, but it also makes many people suspect that he is lying.
+
+[CH1-Q11] ANSWER: Tarp Henry laughs because Malone's plan seems genuinely risky and absurd: Malone knows almost nothing about science, yet he intends to pose as a clever student before one of the most brilliant and bad-tempered scientists in England. Henry finds it funny — and warns him — because he thinks Challenger will see through the trick at once.
+
+[CH1-Q12] ANSWER: Because Challenger hates journalists and would never agree to meet one, Malone writes to him pretending to be an admiring young student who understands and quotes Challenger's scientific work. In this way he flatters the Professor's pride and wins the interview that honest requests could never obtain.
+
+[CH1-Q13] ANSWER: Malone decided not to introduce himself as a journalist because Challenger's hatred of the press was famous — he had insulted and even thrown reporters out of his house. Malone knew that an honest introduction would end the interview before it began, so he hid his real job and posed as a student instead.
+
+[CH1-Q14] ANSWER: With Tarp Henry's help, Malone copies a long, complicated sentence from Challenger's own scientific paper into his letter, as if quoting it with understanding and admiration. Because only a serious student of Challenger's work would quote it this way, the false identity becomes far more believable — and it flatters the Professor to see his words respected.
+
+[CH1-Q15] ANSWER: Challenger, pleased by the letter, replies and grants an appointment at his house in Kensington at eleven o'clock on Wednesday morning. His response finally gives Malone the interview no journalist could get openly, and opens the door to the whole adventure.
+
+[CH1-Q16] ANSWER: Professor Challenger lived in a large house in Kensington, an expensive part of London, together with his wife and servants such as Austin. His study was a scientist's room, with a desk covered with books, maps, scientific papers and fossils.
+
+[CH1-Q17] ANSWER: Mrs. Challenger warns Malone because she knows her husband can become extremely angry and difficult to argue with — "a perfectly impossible person". She kindly advises Malone that if the Professor starts to be abusive, he should simply leave the house at once.
+
+◆ Analysis
+
+[CH1-Q18] ANSWER: Gladys's idea of courage changes Malone's plans completely. She tells him she could only love a man who has faced danger and proved his courage, which makes Malone feel that his safe, ordinary life in London is not enough for him or for her. He decides to leave his comfortable routine and seek a dangerous challenge that will test him and give his life a clearer purpose. The very next day he asks his editor for a dangerous assignment — the first step of his new future.
+
+[CH1-Q19] ANSWER: After Gladys's refusal, everything around Malone suddenly looks small and safe: his newspaper work, his comfortable London life and his daily routine no longer feel like a life worthy of a brave man. His wounded pride mixes with excitement, and he begins to see danger not as something to avoid but as the test he needs. This is why he goes straight to McArdle and asks for the most dangerous assignment the paper can give him.
+
+[CH1-Q20] ANSWER: Through his conversation with Gladys and his visit to McArdle, Malone appears hopeful, bold and a little impulsive. He proposes to Gladys with youthful confidence, and even after her refusal he does not sink into despair — instead he turns disappointment into action. At the Daily Gazette he asks directly for danger, showing a restless desire to prove himself; but his quick decisions and his readiness to use a trick also reveal immaturity beneath the enthusiasm.
+
+[CH1-Q21] ANSWER: Malone's first idea of courage is winning Gladys's admiration through adventure — he links bravery to the reward of her love, something achieved so that people will admire him. Gladys's idea is the opposite: courage is an inner quality, part of a person's character, which shows itself in deeds done for their own sake. Her view is higher and less selfish, and it quietly challenges Malone to grow from wanting to impress into wanting to be worthy.
+
+[CH1-Q22] ANSWER: McArdle's surprised reaction — he says most sensible people want to avoid danger — reveals how unusual Malone's attitude is. Malone actively wants danger, seeing it as a way to test himself, find purpose and prove his courage, while ordinary people see it as something to escape. His eagerness shows boldness and determination, but also a certain immaturity, because he wants risk before he has any real experience of it.
+
+[CH1-Q23] ANSWER: McArdle wants Malone to discover the truth behind Challenger's strange story — whether the Professor is honestly mistaken, deliberately lying, or actually telling the truth about unknown animals in South America. This is an important task because no journalist has yet succeeded with the hostile Professor, and because the story, if true, would be of the greatest scientific and public interest. Success would also make Malone's name as a reporter.
+
+[CH1-Q24] ANSWER: Tarp Henry plays an essential supporting role in Malone's plan. He knows Challenger's world — he explains the Professor's terrifying temper and his record of throwing journalists out — and he supplies the practical means of the deception by helping Malone obtain one of Challenger's scientific papers. Without Henry's advice and the borrowed sentence from that paper, Malone's trick letter would have been far less convincing, and the meeting would probably never have happened.
+
+[CH1-Q25] ANSWER: The ending of the chapter builds suspense layer by layer. Mrs. Challenger's gentle warning makes the reader expect trouble behind the study door, and the deep roar from within confirms that the danger is real. Then the closed door opens to reveal the broad, black-bearded Professor behind a desk covered with books, maps and fossils — a huge, intimidating figure who immediately begins to test Malone. The reader leaves the chapter certain that the meeting will be dramatic and that Malone's adventure has truly begun.
+
+[CH1-Q26] ANSWER: Mrs. Challenger's behavior in the hallway — kind, calm and protective — suggests a wife who cares deeply for her husband but is completely used to his impossible temper. She does not apologize so much as manage: she warns visitors kindly and tries to protect them from his anger. Her behavior implies a patient, understanding woman who knows her husband better than anyone and loves him despite his faults.
+
+[CH1-Q27] ANSWER: The setting of Challenger's study reflects his character exactly. The desk covered with books, maps, scientific papers and fossils shows a serious, hard-working scientist whose whole life is his research. The crowded, overwhelming room also mirrors his big, intense, dominating personality: entering it, Malone feels small and tested. The mixture of learning and disorder suggests both genius and the uncontrolled energy that makes Challenger so difficult.
+
+[CH1-Q28] ANSWER: Challenger's first words to Malone — immediate, technical questions about scientific evidence — reveal a proud, suspicious and dominating personality. He does not welcome his guest politely; he examines him, as if the young man were a specimen, and demands proof of knowledge before granting respect. His attitude shows that he trusts no one and expects to be taken seriously, and it instantly puts Malone's false student identity under pressure.
+
+[CH1-Q29] ANSWER: Malone's desire to prove his courage does affect his judgment, at least partly. His eagerness to be brave makes him rush toward danger without weighing consequences — he adopts a risky false identity, ignores Tarp Henry's laughter and warnings, and walks into Challenger's study despite Mrs. Challenger's advice to leave if the Professor becomes angry. On the other hand, this same desire gives him boldness and energy; his judgment is weakest exactly where his longing to impress Gladys is strongest.
+
+◆ Critical / JRE
+
+[CH1-Q30] ANSWER: Malone's deception is understandable but not fully acceptable, and the chapter deliberately shows both sides. On one hand, honest access was impossible — Challenger threw journalists out of his house — so some trickery seemed the only way to reach the truth. On the other hand, lying to enter a man's home under a false name damages trust, as the fight in Chapter 2 immediately proves. The claim can be made that the importance of the story and the harmlessness of the trick excuse it; yet a method that begins in deceit risks ending in violence and shame. On balance, Malone's purpose was serious, but a fair judgment must admit that his method was wrong even if his aim was not.
+
+[CH1-Q31] ANSWER: Malone's desire for adventure shows both maturity and impulsiveness at the same time. It is mature in the sense that he turns disappointment into action: instead of feeling sorry for himself after Gladys's refusal, he immediately seeks a real challenge that could give his life purpose. It is impulsive because his strongest motive is still to impress Gladys, and he rushes into a risky deception without thinking about the consequences. In the end the two are inseparable — a young man growing up, but not yet grown.
+
+[CH1-Q32] ANSWER: McArdle is both helpful and testing at once. He genuinely helps Malone by giving him the most exciting assignment available — the story of Professor Challenger — and by trusting a very young reporter with a task no senior journalist has managed. At the same time he is testing him: he sends Malone to a man who throws journalists down his steps, and his instruction to find out whether the Professor is "mistaken or lying" is a real professional challenge. A helpful editor, then, but one who makes his reporter earn the story — and the outcome proves he judged Malone well.
+
+[CH1-Q33] ANSWER: Malone's decision to leave his safe life was mostly wise, though it carried real risks. Staying in comfortable routine would have wasted his youth, energy and ambition, while seeking adventure gives his life the purpose and test of courage he craves; only by leaving could he discover what he is capable of. The risk, of course, is that he is young and inexperienced and may be hurt by the dangers he courts. But since the safe life was already making him dissatisfied, the gamble was a reasonable one for a man who wanted his life to matter.
+
+[CH1-Q34] ANSWER: Malone is not truly prepared for the adventure he wants — he is only prepared to want it. He has youth, health, energy and determination, but no experience of real danger, no survival skills, and no knowledge of the science he pretends to understand. His whole method — a trick letter — shows a clever mind that relies on imagination rather than training. The warnings he ignores (Henry's laughter, Mrs. Challenger's advice) suggest that his courage, at this stage, is running ahead of his capability.
+
+[CH1-Q35] ANSWER: Yes, Gladys's definition of courage is convincing. True courage should come from character and responsibility, not from a desire for praise; a deed done only to be admired is performance, not bravery. Her standard — a man who faces danger because courage is part of his nature — matches what the novel itself later rewards in Malone and the explorers. The only weakness in her definition is that she states it as a demand for a suitor, which can sound cold; but as a definition of courage it is sound.
+
+[CH1-Q36] ANSWER: No, Malone is not satisfied with his life at the beginning of the chapter. He has a safe job and a comfortable routine in London, but he feels that his life is ordinary and purposeless, and he longs for adventure and achievement. His dissatisfaction appears in his proposal to Gladys — he wants something great in his life — and, after her refusal, in his immediate request to McArdle for a dangerous assignment. He is a young man hungry for a life larger than the one he has.
+
+[CH1-Q37] ANSWER: Challenger largely deserves his reputation for being difficult, though the reputation is not the whole truth about him. The evidence is clear: his violent temper, his record of throwing journalists out of his house, and the warnings of his own wife and of Tarp Henry all point to a genuinely impossible man. Yet some justice is owed to him as well — his difficulty grew out of years of being mocked and called a liar, and he can show respect to people who deal honestly with him, as he later does with Malone. His reputation is deserved, but it was partly created for him by a mocking world.
+
+[CH1-Q38] ANSWER: Henry's description of Challenger is fairly reliable, and the chapter itself proves it accurate. He warns that Challenger is a scientist of the first rank but violent, quarrelsome and dangerous to journalists — and every element of this is confirmed: Mrs. Challenger warns Malone about her husband's temper, a roar is heard behind the study door, and in Chapter 2 the Professor does bodily attack a journalist. The only limitation is that Henry's account repeats the scientist's public reputation, so it describes the difficult man but not yet the truthful one Malone later discovers underneath.
+
+[CH1-Q39] ANSWER: Challenger's personality at the first meeting is that of a brilliant but arrogant and intimidating man. His physical presence is overwhelming — broad, powerful, black-bearded, behind a desk of books and fossils — and his behavior is a scientist's interrogation: he questions Malone's knowledge at once, demanding proof that the "student" is worth his time. This reveals pride, suspicion of everyone, and a passionate need to be taken seriously. Yet the intensity of his testing also shows a serious man who cares deeply about his work — the same quality that makes him both difficult and formidable.
+
+[CH1-Q40] ANSWER: To prepare honestly for an interview with a difficult scientist, I could first read reliable information about the scientist's work so that my questions were informed, then prepare clear, respectful questions in advance. At the meeting I would introduce myself honestly as a reporter and state the purpose of the interview openly. Finally, I would listen carefully rather than argue, since a difficult man may still respond to fairness and genuine interest. Malone's experience shows that deception only provokes the anger it hoped to avoid.
+
+[CH1-Q41] ANSWER: Behaving honestly matters more than obtaining a story. Reporting is built on trust: a story obtained through deception can misrepresent people, damage reputations and reduce the public's trust in the press as a whole. A lost story can be replaced, but a reporter's integrity, once spent, is very hard to recover — Malone's fight with Challenger in the next chapter shows the immediate cost of deception. The honest journalist may get fewer stories, but the ones he gets are worth printing.
+
+[CH1-Q42] MODEL ANSWER (JRE):
+Justification: Yes, Gladys is mostly a positive influence on Malone.
+Reason: Although her refusal wounds him, her words push him to grow instead of simply feeling hurt; her idea of courage gives him a new goal and sends him looking for a challenge worthy of a brave man.
+Evidence: She says she could only love "a man who has faced danger", and Malone leaves her disappointed but strangely excited; the very next day he asks Mr. McArdle for a dangerous assignment.
+
+[CH1-Q43] MODEL ANSWER (JRE):
+Justification: No, Malone is not yet truly ready for the kind of adventure he is seeking.
+Reason: He acts on excitement rather than careful planning, and his readiness is still mostly eagerness, not skill or experience.
+Evidence: He asks McArdle for danger almost casually; he tricks Challenger with a fake student letter instead of weighing the risks Tarp Henry warns about; and he walks into the study after Mrs. Challenger's warning to leave "while you still can" — admitting he felt excited rather than nervous.
+
+[CH1-Q44] MODEL ANSWER (JRE):
+Justification: Yes, Malone is a determined person.
+Reason: He does not give up easily; when one door closes he looks for another way to reach his goal.
+Evidence: After Gladys's refusal he immediately asks McArdle for a dangerous assignment; when the Challenger interview seems impossible, he builds a plan with Tarp Henry, copies a sentence from Challenger's own paper, writes the trick letter, and keeps the appointment despite every warning.
+
+[CH1-Q45] MODEL ANSWER (JRE):
+Justification: Malone was partly right and partly wrong to lie about his identity.
+Reason: It was understandable, because Challenger's hatred of journalists meant an honest introduction would have ended the interview before it began; but a lie is still a lie, and it rightly costs Malone Challenger's trust when it is discovered.
+Evidence: Challenger was famous for rejecting journalists and had even thrown reporters out of his house; Malone's deception does get him into the study, but it also provokes the Professor's fury the moment it is exposed.
+
+[CH1-Q46] MODEL ANSWER (JRE):
+Justification: Yes, Mr. McArdle is helpful to Malone.
+Reason: He takes his young reporter's unusual request seriously and hands him the one story big enough to satisfy it — the mystery of Professor Challenger.
+Evidence: He tells Malone about Challenger's journey to South America and his strange claims, sets him the task of discovering whether the Professor is mistaken or lying, and thereby gives Malone the chance to find a real story and prove himself.
+
+[CH1-Q47] MODEL ANSWER (JRE):
+Justification: Yes, Malone shows good problem-solving skills.
+Reason: When the direct approach is blocked, he analyses the obstacle and designs a clever way around it.
+Evidence: Realizing Challenger will never receive a journalist, he plans the false student identity; with Tarp Henry's help he copies a difficult sentence from Challenger's own scientific paper into his letter, making the disguise believable; the plan succeeds and wins him the appointment.
+
+[CH1-Q48] MODEL ANSWER (JRE):
+Justification: Yes, Tarp Henry is an important part of Malone's plan.
+Reason: He supplies the knowledge and the means without which the trick could not work: he explains Challenger's dangerous temper so Malone knows the risk, and he helps him get the Professor's scientific paper.
+Evidence: The complicated sentence from Challenger's paper — quoted in Malone's letter — is what makes the false "student" convincing; without Henry's advice and help, the letter would have been an ordinary note and Challenger would probably never have replied.
+
+[CH1-Q49] MODEL ANSWER (JRE):
+Justification: Yes, seeking adventure is a good response to Gladys's rejection.
+Reason: Instead of despairing or resenting her, Malone turns the pain into positive action: he sets out to become the kind of man she described — and more importantly, the kind of man he himself wants to be.
+Evidence: After the refusal he leaves disappointed but strangely excited; he goes directly to McArdle to ask for a dangerous assignment, and within days he is inside Challenger's study beginning the adventure. His motive is not pure, but his direction is healthy.
+
+[CH1-Q50] MODEL ANSWER (JRE):
+Justification: By the end of the chapter Malone is mainly trying to impress Gladys — but true courage is beginning to grow in him.
+Reason: His motive still comes from her words, which he hears as a challenge to win her love; yet his actions — facing a frightening man whom everyone warns him about — are themselves brave, whatever their origin.
+Evidence: He keeps the appointment despite Mrs. Challenger's warning and the roar behind the door, and he admits he felt excitement rather than fear; a man acting only for show would more naturally have found an excuse to stay away.
+
+[CH1-Q51] MODEL ANSWER (JRE):
+Justification: Yes, the chapter clearly shows that Malone's adventure has only just begun.
+Reason: The chapter is built as a threshold: every event prepares the meeting with Challenger, and it ends exactly at the moment the door opens on him.
+Evidence: Gladys's challenge sends Malone to McArdle; the trick letter wins the appointment; Mrs. Challenger warns him at the door, a deep roar sounds behind it, and he steps in to face the broad, black-bearded Professor. Malone's own closing words — that he had entered looking for adventure and found it sooner than he expected — say plainly that everything is still ahead.
+
+[CH1-Q52] MODEL ANSWER (JRE):
+Justification: Gladys does not really want Malone to become a different man; she wants his true character to show itself.
+Reason: Her definition of courage is that bravery is part of a man's nature — a brave man acts because that is who he is, not to win applause — so she is asking whether courage exists in Malone's character, not asking him to become someone else.
+Evidence: She says she could love a man who has faced danger and done great deeds, and insists that a brave act done only to win approval is not true courage — the test is of character, not of costume.
+
+[CH1-Q53] MODEL ANSWER (JRE):
+Justification: If Malone had introduced himself openly as a reporter, he would most probably have been rejected at once, and he would have needed another, more respectful method to earn a hearing.
+Reason: Challenger's hostility to journalists made a direct, unprepared approach almost certain to fail, since the Professor refused to listen to the press at all.
+Evidence: Reporters were regularly insulted and thrown out of Challenger's house — the reason Malone uses the false student identity — and when Malone's job is finally exposed in Chapter 2, Challenger immediately throws him out. Only after Malone proves his honesty does Challenger listen to him.
+
+◆ Quotes / MCQ / T-F
+
+[CH1-Q54] ANSWER: The line is Malone's wry admission that adventure is not something one schedules — it arrives the moment one steps toward it. He walked into Challenger's house merely hoping to begin something great, and within minutes he is facing a roaring, intimidating Professor with his disguise already under attack. The sentence closes the chapter with both humor and foreboding: the meeting will be dramatic and difficult right away, not calm or simple, and everything Malone wished for is now rushing toward him faster than he planned.
+--- CHAPTER 2: PROFESSOR CHALLENGER'S SECRET ---
+
+◆ Comprehension
+
+[CH2-Q1] ANSWER: Malone had been giving vague, cautious answers like "very interesting" to seem knowledgeable, but when Challenger pressed him to name the specific recent evidence, he realized he had nothing real to say. His hesitation exposed the truth: he had been tricking his way through the conversation from the very beginning.
+
+[CH2-Q2] ANSWER: Malone admits he knows very little about the scientific subject because Challenger's technical questions have caught him out — he cannot name the evidence or keep up the pretence any longer. Confessing his ignorance is more honest than inventing answers, and it is the first step toward the truth-telling that eventually wins Challenger's respect.
+
+[CH2-Q3] ANSWER: Malone was really a young reporter for the Daily Gazette, not the admiring science student he claimed to be in his letter. Once Challenger's questions expose his ignorance, Malone confesses his true identity and job — and the Professor, who hates journalists, immediately explodes with anger.
+
+[CH2-Q4] ANSWER: Challenger became furious because he already hated journalists, believing the press had mocked his earlier scientific claims and called him a liar. When Malone admitted he worked for the Daily Gazette, Challenger felt personally deceived — the young man had entered his home under false pretences. His rage reflected both his wounded pride and his deep distrust of a public that refused to listen fairly.
+
+[CH2-Q5] ANSWER: After ordering Malone out, Challenger advanced on him despite Malone's warning not to touch him. The two men fought, crashed into a chair, and the struggle carried them through the open front door and down onto the steps outside, where they rolled together in front of a policeman and the assembled neighbours.
+
+[CH2-Q6] ANSWER: Malone decided not to press charges because he remembered that he himself had entered the house dishonestly, under a false name, and that his deception had helped cause the fight. Feeling that the fault was partly his own, he told the policeman so and refused to make a complaint against the Professor.
+
+[CH2-Q7] ANSWER: Challenger invites Malone back because the young man's behavior after the fight impresses him: Malone could have had the Professor arrested, but instead he admitted the fault was partly his own and refused to press charges. This honesty turns Challenger's anger into something close to respect, and he takes him back into the house.
+
+[CH2-Q8] ANSWER: The policeman closed his notebook because there was no complaint to record: the injured man refused to make a charge and freely admitted that the fight had been partly his own fault. With no complainant there was no case, so the officer simply left the two gentlemen to settle their differences.
+
+[CH2-Q9] ANSWER: Challenger's theory is that the great cliffs of the isolated plateau cut it off completely from the surrounding world, perhaps for millions of years. Because the plants and animals there lived in isolation, species that died out elsewhere could have survived unchanged — so prehistoric creatures may still be alive on the plateau today.
+
+[CH2-Q10] ANSWER: Challenger set one condition before showing the sketchbook: Malone had to give his word that he would publish nothing about the discovery without the Professor's permission. The condition reflected Challenger's fear of being mocked again by the press, and Malone gave his promise.
+
+[CH2-Q11] ANSWER: One picture in Maple White's sketchbook showed the great red cliffs with a separate rock tower beside them, exactly the place the explorers later find; another showed a strange huge animal with plates along its back that the reference book identified as the prehistoric stegosaurus — a beast that should have been extinct for millions of years.
+
+[CH2-Q12] ANSWER: Challenger opened a scientific reference book on prehistoric animals and placed its picture of a stegosaurus beside Maple White's drawing. The two matched closely, which supported his claim that the sketch was a truthful drawing of a living prehistoric animal rather than an artist's invention.
+
+[CH2-Q13] ANSWER: Most of Challenger's photographs were ruined in a river accident during his return journey, leaving only one blurred, damaged photograph. This weakened his case greatly: clear photographs would have been strong public proof, but a single damaged picture could be dismissed as a fake, giving his enemies an easy reason to doubt him.
+
+[CH2-Q14] ANSWER: Challenger refuses to reveal the exact location of the plateau because after his return to London people laughed at his claims, accused him of faking his evidence, and demanded exact directions as if to trap him. Bitter and distrustful, he now keeps the location secret from everyone — which of course only deepens the mystery around him.
+
+[CH2-Q15] ANSWER: Malone begins to believe because he sees several separate pieces of evidence that all support the same story — the sketchbook with its stegosaurus-like drawing, the damaged photograph showing a winged shape, and the actual pterodactyl wing bone — and because Challenger is so calm, certain and sincere in presenting them. Individually each item could be doubted; together they begin to convince.
+
+[CH2-Q16] ANSWER: Challenger uses the magnifying glass to examine the damaged photograph closely, because its details are too small and blurred for the naked eye. Under the glass, the dark shape on the tower's tree can be seen to be a large winged creature — a detail a forger would be unlikely to invent — so the photograph quietly supports his argument that Maple White photographed a living pterodactyl.
+
+◆ Analysis
+
+[CH2-Q17] ANSWER: The three pieces of evidence support the claim from different directions. The sketchbook shows red cliffs, an isolated rock tower and a creature resembling a stegosaurus; the damaged photograph shows the same cliffs with a strange dark winged shape upon the tower; and the wing bone is a physical bone with dried membrane that matches a pterodactyl. Alone, each could be doubted or explained away, but together they point at the same reality — a lost world where prehistoric creatures still live.
+
+[CH2-Q18] ANSWER: Challenger's personality works against his own truth. His temper and pride make him answer mockery with anger and refusal instead of calmly presenting his proof, so people judge the man rather than examine the evidence. A rude, violent scientist sounds unstable, and an unstable man is easy to call a liar. The tragedy is that the story may be true while the messenger makes it unbelievable.
+
+[CH2-Q19] ANSWER: At the start of the meeting Malone is openly sceptical — he says a man can draw anything and suggests the creature is a bird or a bat. But as Challenger calmly produces the sketchbook, the photograph, the wing bone and the theory of an isolated plateau, doubt gives way to surprise; by the end of the chapter Malone admits he is beginning to believe, and the London street outside even feels unreal to him.
+
+[CH2-Q20] ANSWER: The evidence is stronger together because each item covers the others' weaknesses. A drawing can be imagined, a photograph can be blurred or faked, and a bone needs a context — but the drawing, the photo and the bone all describe the same cliffs and the same winged creature, from three independent kinds of proof. When separate pieces of evidence match, the chance that all three are false becomes very small, which is why Malone's scepticism begins to break.
+
+[CH2-Q21] ANSWER: The lie was risky because it was almost certain to be discovered — and it was. Challenger's technical questions immediately exposed Malone's ignorance, and the discovery that his guest was a journalist turned the Professor's suspicion into fury; Malone ended the meeting bleeding on the front steps. Only his honesty afterward saved the situation. The episode shows how a deception that wins entry can destroy any chance of trust.
+
+[CH2-Q22] ANSWER: Malone refuses to press charges because he knows his own deception started the trouble — he entered the house under a false name and provoked the Professor's rage. This reveals much that is good in him: he is fair-minded enough to share the blame, honest enough to admit it publicly to a policeman, and humble enough to accept the consequences. It is exactly this fairness that changes Challenger's view of him.
+
+[CH2-Q23] ANSWER: After Malone refuses to press charges, Challenger's attitude changes from violent anger to something close to respect. The cause is Malone's honesty: instead of using his injury to harm the Professor, the young man admits the fault was partly his own and refuses to make a complaint. Seeing fairness where he expected a journalist's tricks, Challenger takes his hand, invites him back into the house, and finally shares his secret.
+
+[CH2-Q24] ANSWER: The newspapers had painted Challenger as a violent, half-mad crank who threw journalists down his steps, and Malone arrived expecting exactly that monster. This made him cautious and ready for trouble — but it also lowered his respect in advance, so his first reaction to the Professor's claims was disbelief. The meeting then corrects the portrait: the same aggressive man proves to be a serious, truthful scientist, teaching Malone that the press reports had shaped his expectations more than the facts.
+
+[CH2-Q25] ANSWER: In public, Challenger is a failure: mocked at meetings, disbelieved by scientists, and attacked by newspapers that call him a liar. Privately, with Malone, he is a different man — calm, methodical and generous, laying out his evidence piece by piece and reasoning like the serious scientist he is. The contrast shows that his public aggression is the armour of a wounded man, not his real character; humiliation made him difficult, but in trusted company the true scientist appears.
+
+[CH2-Q26] ANSWER: Challenger most likely decided to trust Malone because the young man proved himself different from the journalists who had ruined him. Malone took responsibility for the fight, refused to press charges, and gave his word not to publish without permission — honest behavior of a kind Challenger had never received from the press. In addition, Malone is young and open-minded, without the older scientists' pride: he can still be convinced by evidence, which is exactly what Challenger needs if the truth is ever to reach the world.
+
+[CH2-Q27] ANSWER: People in London did not believe Challenger's story at first because the claim was extraordinary and his publicly known proof was weak: the clearest photographs had been ruined, and the story rested on the sketchbook of a dead American artist. His furious temper and his attacks on journalists made him seem unstable rather than convincing, and an audience that begins by laughing rarely stops to examine evidence. So reputation, not evidence, decided the public judgment.
+
+[CH2-Q28] ANSWER: The policeman was surprised because the scene looked like an ordinary assault case: one man injured on the steps, the other obviously the stronger party. He expected the injured man to press charges, as most people would. Malone's refusal — and his admission that the fault was partly his own — went against ordinary human behavior, which is precisely what makes it noteworthy.
+
+[CH2-Q29] ANSWER: The contrast creates mystery because it shows a journey, not a fantasy. The early pages contain ordinary, accurate sketches of landscapes and animals, proving Maple White was a truthful, observant artist; then the later pages suddenly show enormous unknown creatures of a kind no modern man should have seen. Since the reliable artist is the same man throughout, the strange drawings begin to look less like imagination and more like honest records of something extraordinary — and the reader, like Malone, wants to know what he actually saw.
+
+[CH2-Q30] ANSWER: The unusual animal in Maple White's drawing suggests that he discovered living prehistoric creatures. The beast — huge and plated like a stegosaurus — matches no living species known to science, and the accuracy of his other drawings shows that Maple White recorded what he truly saw. If the artist was truthful, then the plateau he reached still carried animals from the age of dinosaurs, which is exactly Challenger's claim.
+
+[CH2-Q31] ANSWER: Challenger's own journey along Maple White's route strengthened his belief because the places proved real. He found the same red cliffs and the isolated rock tower exactly as sketched, confirming that Maple White had truly been there and drawn accurately. A man whose landscapes check out against reality gains credibility for the rest of his record — so the strange creatures in the later drawings became, for Challenger, evidence rather than fantasy.
+
+[CH2-Q32] ANSWER: Challenger showed Malone the sketchbook, most likely, because he needed one fair listener. After years of mockery he had gone silent, but Malone had just proved honest — he took part of the blame for the fight and gave his word on publication — and Challenger wanted someone young and open-minded to see the evidence with his own eyes. Showing the sketchbook also let the lonely Professor share, at last, the great discovery no one would believe; in effect he was choosing Malone as the future messenger of his truth.
+
+[CH2-Q33] ANSWER: The pterodactyl evidence is especially important because it is physical. A drawing can be invented and a photograph blurred, but a wing bone with dried membrane is an object that can be measured, compared and verified — and it matched the reference book's picture of a pterodactyl. It also links the other pieces together, since the same winged shape appears in the photograph and is implied by the drawings. A bone that proves a great flying reptile died recently in a place is the strongest single argument that the plateau's life is prehistoric.
+
+[CH2-Q34] ANSWER: The ending creates interest by leaving the story half-open. Malone steps into the London night feeling the street unreal — his mind already living in a hidden world beyond the Atlantic — and the reader shares his dazed excitement. At the same time Challenger announces a public lecture at the Zoological Institute, promising a dramatic public test of his claims. With belief growing but nothing yet proved, the reader must continue to the next chapter to see whether the secret survives its public examination.
+
+◆ Critical / JRE
+
+[CH2-Q35] ANSWER: Challenger was partly justified in keeping the location secret, though the secrecy has a price. He had been laughed at, accused of faking evidence, and hounded for exact directions by people who wanted to trap him, so protecting both his discovery and himself was understandable. The counter-argument is real, however: secrecy prevents other scientists from testing his claim, keeps the doubt alive, and — as Chapter 4 shows — can leave his companions in danger. On balance he had the right to guard a discovery from a world that had abused him, but the mystery he preserved also fed the very disbelief he hated.
+
+[CH2-Q36] ANSWER: The magnifying-glass scene is the turning point of the photograph's meaning. Seen with the naked eye, the picture is a blurred curiosity that can be dismissed; under the glass it reveals the specific detail of a great winged shape upon the tower tree — exactly matching the sketchbook and the wing bone. What changes is Malone's perception: the photograph stops being an unclear image and becomes a corroborating witness. The scene quietly teaches that evidence, properly examined, grows stronger, and it marks the reader's own shift from doubt to belief.
+
+[CH2-Q37] ANSWER: Malone's choice to attend the lecture marks a real transformation. Earlier in the chapter he doubted most of what Challenger said, treating the Professor as either mistaken or mad; by agreeing to attend, he actively chooses to keep discovering the mystery rather than walk away. The decision shows his scepticism turning into genuine curiosity — the reporter becoming an explorer. It also places him at the exact spot where the expedition will be born, which the reader senses is no accident.
+
+[CH2-Q38] ANSWER: The ending prepares the reader by reversing Malone's world. After an evening of drawings, bones and theories of a living prehistoric world, ordinary London — the street, the passers-by, the routine city — suddenly feels unreal to him. The reversal tells the reader that Malone's old life is already loosening and that a larger reality is waiting beyond the Atlantic. It is a classic preparation for departure: the hero's home has become strange, so the strange destination can become his new home.
+
+[CH2-Q39] ANSWER: In my opinion the most convincing piece of evidence is the pterodactyl wing bone. Drawings can be imagined and photographs blurred or forged, but a physical bone with dried membrane can be examined, measured and compared with scientific records — which Challenger does against the reference book, finding a match. It is also the piece that most directly implies a recent, living creature rather than an old fossil. If the bone is genuine, the case for a living lost world stops being a story and becomes only a matter of time before it is confirmed.
+
+[CH2-Q40] ANSWER: The newspapers' criticism shaped almost every one of Challenger's actions. Their mockery and accusations of fraud made him silent and secretive — refusing to reveal the location, refusing to publish details, and trusting no one. Their attacks also fed his violence toward journalists, which in turn gave the papers fresh scandal to print: a circle of hostility on both sides. The damage is that a possibly true discovery was locked away from science by exactly the people who claimed to serve public knowledge.
+
+[CH2-Q41] ANSWER: Maple White is essential to the development of Challenger's discovery — he is its source and its map. His worn sketchbook gave Challenger the first record of the red cliffs, the rock tower and the strange animals; his traveled route guided Challenger to the place itself; his damaged photograph and the wing bone became the core of the evidence. Without Maple White's records Challenger would have had only a personal story that no one believed. One dying artist's honest drawings, in effect, started the whole expedition.
+
+[CH2-Q42] ANSWER: The theory is reasonably convincing because it is logical and supported. The idea that high cliffs isolate the plateau, protecting its life from the changes that extinguished such species elsewhere, is scientifically sensible; and the three pieces of evidence — the accurate sketchbook, the photograph, the wing bone — all fit it. What the theory still lacks at this point is public, testable proof, which is exactly why the expedition of the following chapter is needed. As a theory it convinces by logic; as a fact it must still be witnessed.
+
+[CH2-Q43] ANSWER: Keeping the promise is both wise and ethical. Malone had given his word, and the promise is what earned him the evidence at all — a journalist who broke it would destroy the only bridge of trust between Challenger and the world. Practically, an honest report published with permission will carry Challenger's authority and be believed; a stolen story would be doubted and would confirm every stereotype of the press. The small delay in publishing is a fair price for a story the world can actually trust.
+
+[CH2-Q44] ANSWER: Yes, sharing the discovery with Malone was a good decision. Malone had proved himself honest — he took part of the blame for the fight, refused to press charges and gave his word on publication — and Challenger needed exactly such a fair witness to carry his truth to a mocking world. The risk was small, since the promise protected the secret. In fact the decision proves wise beyond expectation, since Malone's involvement leads directly to the expedition in the following chapters.
+
+[CH2-Q45] MODEL ANSWER (JRE):
+Justification: Yes, Malone is justified in beginning to believe Challenger by the end of the chapter.
+Reason: At first Malone doubts, saying anyone can draw a strange animal; but Challenger produces more than one clue, and the clues all match — one drawing could be fake, yet a matching photograph and a real wing bone as well are hard to doubt together.
+Evidence: Malone sees the sketchbook drawing resembling a stegosaurus, the damaged photograph of the same cliffs with a winged shape, and the actual wing bone with dried membrane; by the end he admits he is beginning to believe.
+
+[CH2-Q46] MODEL ANSWER (JRE):
+Justification: Yes, Challenger can still be considered a trustworthy scientist despite his rudeness.
+Reason: A scientist's worth lies in his facts and methods, not his manners; Challenger's anger comes from being laughed at, not from dishonesty, and his methods — careful records, comparison with reference books, a reasoned theory — are those of a serious scientist.
+Evidence: He traveled to the Amazon himself to test Maple White's sketchbook against reality; he compares the wing bone with the reference book's picture to prove it genuine; and he presents his evidence to Malone calmly and in order.
+
+[CH2-Q47] MODEL ANSWER (JRE):
+Justification: Malone's growing belief is based mainly on the evidence, not on Challenger's personality.
+Reason: Being persuaded by evidence means being convinced by facts; being persuaded by personality means yielding to force of character — and Malone does not yield to Challenger's force. He keeps his scepticism while the Professor insists, and changes his mind only when the objects themselves begin to agree with one another.
+Evidence: Malone answers the passionate Challenger with the objection that a man can draw anything; his belief grows only after the photograph and the wing bone are shown to match the sketchbook drawing.
+
+[CH2-Q48] MODEL ANSWER (JRE):
+Justification: No, Challenger was not fully justified in physically confronting Malone, though his anger was understandable.
+Reason: He had a genuine grievance — a journalist had entered his home under a false name — and his fury had years of mockery behind it; but anger does not create the right to assault a man, and violence made the situation worse than it needed to be.
+Evidence: Malone had warned him not to touch him before the fight began; Challenger, who had been laughed at and called a liar by reporters for years, let his rage take over, and the struggle ended with both men rolling onto the steps before a policeman.
+
+[CH2-Q49] MODEL ANSWER (JRE):
+Justification: Yes, Malone earned Challenger's trust and respect after their fight.
+Reason: Although Malone had lied to enter the house, he acted honestly at the decisive moment — taking part of the blame himself rather than punishing the Professor, which showed real character beneath the deception.
+Evidence: He tells the surprised policeman that the fight was partly his fault and refuses to press charges; immediately afterward the text says Challenger's anger changed into something almost like respect, and he invites Malone back into the house.
+
+[CH2-Q50] MODEL ANSWER (JRE):
+Justification: Partly yes, partly no — his silence was understandable self-protection, but patience would have served the truth better.
+Reason: After years of public mockery, silence protected his dignity and his discovery from further abuse; yet by going silent he also left the field entirely to his enemies, so that doubt and ridicule became the public's only picture of him.
+Evidence: People laughed at his claims and accused him of faking evidence, so he stopped explaining and kept the location secret; the result is that even honest listeners like Malone begin as sceptics, and only the private showing of the sketchbook, photograph and bone convinces anyone.
+
+[CH2-Q51] MODEL ANSWER (JRE):
+Justification: No — Malone was right not to run away, because staying is what saved the interview.
+Reason: Leaving at once would have avoided the fight, but it would also have ended his one chance at the story and left Challenger's hatred of journalists confirmed; Malone's presence after the fight was what allowed his honesty to be seen.
+Evidence: The fight itself began only when Challenger advanced on him; immediately after Malone refused to press charges, Challenger's anger turned into respect and he invited Malone back inside — an outcome a fleeing man would never have obtained.
+
+[CH2-Q52] MODEL ANSWER (JRE):
+Justification: No, the sketchbook alone was not enough to prove the story.
+Reason: A drawing is an artist's record, and an artist — as Malone objects — can draw anything: monsters, invented beasts, fantasy creatures; proof requires something physical or verifiable beyond one man's pencil.
+Evidence: Malone's own first reaction to the sketches is scepticism, suggesting the creature might be a bird or a bat; only when the photograph and the pterodactyl wing bone are added, and all three agree, does the case for the lost world become strong.
+
+[CH2-Q53] MODEL ANSWER (JRE):
+Justification: Malone's job helped his search for the truth more than it hurt it, though it nearly wrecked both.
+Reason: As a journalist he received the assignment, the motive and the access; but the press's bad reputation with Challenger was the reason he had to lie at the door, and the lie brought the fight and the Professor's fury.
+Evidence: McArdle gives him the Challenger story as a dangerous assignment; the Professor erupts the moment he hears Malone works for the Daily Gazette, because journalists had mocked him; yet it is the reporter in Malone that later records the evidence — with permission — for the world.
+
+[CH2-Q54] MODEL ANSWER (JRE):
+Justification: Together they produce a chain of evidence neither could supply alone: the sketchbook describes the place, and Challenger's journey proves the place is real.
+Reason: A dead artist's sketches by themselves could be imagination; a scientist's unverified journey by itself is only one man's word. But when Challenger follows Maple White's route and finds the red cliffs and rock tower exactly as drawn, the artist's honesty is confirmed — and with it the credibility of his strange animal drawings.
+Evidence: Maple White's worn sketchbook shows the cliffs, the tower and a stegosaurus-like creature; Challenger traveled that same route, saw the same places, and later showed Malone the sketchbook, the photograph and the wing bone as one connected case for a lost plateau.
+
+◆ Quotes / MCQ / T-F
+
+[CH2-Q55] ANSWER: The phrase is Challenger's answer to a world that mocks him, and it reveals the core of his character: absolute confidence in what he has personally witnessed. He is saying that reality does not depend on public opinion — the existence of the plateau's creatures is not altered by fools who laugh at it. The line shows a man who values truth far above reputation or approval, who would rather be abused and right than applauded and wrong. In context — spoken while presenting his evidence — it is both a boast and a wounded man's creed, and the later chapters prove him correct.
+--- CHAPTER 3: THE EXPEDITION IS CHOSEN ---
+
+◆ Comprehension
+
+[CH3-Q1] ANSWER: Challenger believes his evidence should be taken seriously because it is scientific material — sketches, a photograph and a bone brought back from a real journey — that deserves examination rather than laughter. He becomes angry at the lecture because the audience treats an extraordinary claim as a joke instead of testing it, and he insists that scientific evidence, however strange, must be seriously examined before it is rejected.
+
+[CH3-Q2] ANSWER: Summerlee challenges Challenger during the lecture because he is sceptical of the claims and wants convincing, testable proof. He believes extraordinary claims must be examined carefully by science rather than accepted because a confident man asserts them, so he demands evidence that can actually be checked.
+
+[CH3-Q3] ANSWER: Summerlee agrees to test the claims in person because he wants testable proof and is determined to investigate the truth properly rather than accept or reject the story from an armchair. As a scientist he believes the only fair judgment comes from personal investigation, so he volunteers to travel to the place and see the evidence with his own eyes.
+
+[CH3-Q4] ANSWER: Challenger asks for younger companions to accompany the elderly Summerlee on the dangerous journey, and Malone volunteers publicly at the lecture; the famous explorer Lord John Roxton volunteers almost at the same time because of his Amazon experience. Challenger then proposes Summerlee, Roxton and Malone as the investigating party, and the motion is accepted.
+
+[CH3-Q5] ANSWER: Malone's decision to volunteer changes his future completely: from that moment he is a member of a dangerous scientific expedition to South America. His life stops being that of an ordinary London journalist and becomes that of an explorer and investigator — exactly the life of adventure and purpose he had been seeking since Gladys's refusal.
+
+[CH3-Q6] ANSWER: Roxton is experienced, brave, calm and familiar with the Amazon. His knowledge of the region's rivers and peoples, his survival and hunting skills, his marksmanship and his self-control under pressure make him an important and dependable member of the team.
+
+[CH3-Q7] ANSWER: Lord John Roxton was famous as an explorer, sportsman and hunter, known for his travels and adventures in South America and his deep knowledge of the Amazon, its rivers and its peoples.
+
+[CH3-Q8] ANSWER: Lord John asks about shooting, climbing, swimming and staying calm because he wants to know whether Malone has the practical survival skills needed for a dangerous expedition. On such a journey every member's ability may decide life or death, so he tests his companion before trusting him.
+
+[CH3-Q9] ANSWER: Lord John chooses the expedition's members carefully because in a remote and dangerous region each man's skill, nerve and reliability may decide the survival of all. A weak or untested companion endangers everyone, so he examines Malone's practical abilities — and later picks strong, loyal local helpers like Zambo — before committing the team to the unknown.
+
+[CH3-Q10] ANSWER: Malone respects Summerlee because the Professor is honest about his doubts yet still willing to travel and test the claims himself. That combination — scepticism joined to courage and fairness — is the true scientific attitude, and Malone admires it even while Summerlee attacks the very man Malone has begun to believe.
+
+[CH3-Q11] ANSWER: Challenger sends a blank sheet of paper because he does not want written instructions that could reveal the secret route or be intercepted, and because he intends to guide the expedition himself. He then appears in Manaos in person, revealing that he has secretly traveled to Brazil so that he can lead the party with his own memory and knowledge.
+
+[CH3-Q12] ANSWER: The envelope, which the team was ordered to open at exactly noon on 15 July in Manaos, contained nothing at all — a single blank sheet of paper. The empty "instructions" were Challenger's dramatic way of announcing that the real guide had arrived in person.
+
+[CH3-Q13] ANSWER: The instructions stayed sealed until Manaos because Challenger ordered them opened only at exactly noon on 15 July, at the agreed place. The rule guaranteed that no one — including reporters and curious travelers who might follow the expedition — could learn or leak the route in advance, and it brought the whole team to one point before the secret was revealed.
+
+[CH3-Q14] ANSWER: Challenger thinks Summerlee needs younger companions because the Professor is thin and elderly, while the journey involves rough rivers, forests, climbing and physical hardship. Younger, stronger men like Malone and Roxton can protect him, share the hard work, and keep the expedition moving through difficulties that his age could not handle alone.
+
+[CH3-Q15] ANSWER: Roxton's experience with Pedro Lopez's group gave him long knowledge of the region's rivers, peoples and dangers, and it left him both loyal friends and dangerous enemies among the local men. That experience warns the expedition of possible hostility in the area, while his friends and his knowledge of local helpers — like Zambo, Gomez and Manuel — make the difficult journey safer and better organized.
+
+[CH3-Q16] ANSWER: The powerful rubber-trading group was led by Pedro Lopez, Gomez's brother. Lopez ran it unfairly and cruelly until Lord John Roxton fought the group and ended his power years before the events of the novel.
+
+[CH3-Q17] ANSWER: Malone does not tell Gladys he is traveling for her because he remembers her words: a brave act done only to win a woman's approval is not true courage. He wants his adventure to have its own purpose — to prove himself for his own sake — rather than be a performance for her praise.
+
+[CH3-Q18] ANSWER: Challenger believes his personal guidance is more reliable than written directions for several reasons: he alone has traveled the route and seen the plateau; paper can be lost, stolen or read by strangers, while his memory cannot; and written words can be misread or followed wrongly, whereas he can adapt the route to real conditions as he leads the party. As he says in Manaos, no written directions could be as reliable as his own memory.
+
+◆ Analysis
+
+[CH3-Q19] ANSWER: Challenger and Summerlee are opposites in temperament: Challenger is confident, proud, forceful and certain, while Summerlee is sceptical, sharp-tongued and demanding of proof. Their constant arguments create tension and could slow decisions on the journey. Yet the combination is also the expedition's strength: Challenger's boldness pushes the team forward while Summerlee's doubt keeps every claim honest, so the two temperaments check and correct each other. In the end, their conflict produces better science than either man alone.
+
+[CH3-Q20] ANSWER: The four members form a complete team through their differences. Challenger contributes the claim, the scientific knowledge and the driving will; Summerlee contributes careful scientific judgment and the scepticism that verifies rather than assumes; Lord John brings exploration and survival experience, weapons skill and calm in danger; Malone adds youth, energy, observation and his reporter's habit of recording everything. Each covers the others' weaknesses, which is why the expedition can face both scientific questions and physical dangers.
+
+[CH3-Q21] ANSWER: The final conversation with Gladys shows Malone's motive maturing. At the beginning of the story he wanted adventure chiefly to impress her and win her love; now, before leaving, he deliberately does not say that he is traveling for her, because he remembers that she called approval-seeking false courage. He hopes instead to make good use of the opportunity and to prove himself for his own sake. The change is from adventure-as-performance to adventure-as-purpose — the beginning of the true courage the novel rewards.
+
+[CH3-Q22] ANSWER: Zambo, Gomez, Manuel and the Indigenous boatmen are the expedition's practical foundation. They know the rivers and the local environment, handle the canoes, carry the supplies, and make an otherwise impossible journey manageable and safer. Their local knowledge also warns the explorers of dangers and of local fears connected with the plateau. As the story later shows, the scientists' lives literally depend on such helpers — Zambo's loyalty is what keeps the trapped explorers alive.
+
+[CH3-Q23] ANSWER: Lord John's past with Pedro Lopez affects the expedition in two opposite ways. Positively, the feud gave him deep knowledge of the region, its rivers and its peoples — and loyal local friends who strengthen the expedition. Negatively, it left him dangerous enemies: Pedro Lopez's group had its own people, and Gomez — Lopez's brother — carries a family grudge that will later explode at the bridge. The past thus arms the expedition and threatens it at the same time.
+
+[CH3-Q24] ANSWER: The blank paper creates surprise because it destroys everyone's expectations. The team has traveled for weeks on the promise of Challenger's sealed instructions, and the moment of revelation arrives with all the ceremony of noon on 15 July — only to show an empty page. The reader and the characters share the same stunned question: has Challenger tricked them, or failed them? The surprise prepares the perfect dramatic entrance for the Professor himself, who immediately steps in and resolves the mystery.
+
+[CH3-Q25] ANSWER: Summerlee's skepticism is useful to the expedition because it keeps the team honest. He refuses to accept anything without proof, so every claim that survives his questioning is solid; he prevents the explorers from seeing what they wish to see instead of what is there. On a journey into the completely unknown — where imagination runs easily ahead of facts — his demand for evidence is a discipline the team badly needs. His later conversion is convincing precisely because he was so hard to convince.
+
+[CH3-Q26] ANSWER: The journey to an unexplored part of the Amazon suggests serious dangers ahead. The river itself grows hostile — rapids and shallows will force them to abandon the launch and then the canoes — and the forest, bamboo and rocky slopes will be physically exhausting. The local guides grow frightened the nearer they come to the plateau, and the region lies beyond maps or rescue: whatever threatens them there, they will face it alone. The land itself seems to warn the explorers away.
+
+[CH3-Q27] ANSWER: The preparation increases the reader's curiosity by layering mystery upon competence. Skill tests, careful selection of companions and local helpers, sealed orders, a fixed date and place — everything shows that what lies ahead is dangerous and strictly secret. The reader keeps asking the questions the secrecy raises: what place needs such protection, and what creatures require such skills? By the time the blank envelope is opened, curiosity has been raised to a pitch that only the lost world itself can satisfy.
+
+[CH3-Q28] ANSWER: Challenger's decision to interrupt the lecture reveals his pride and his courage in one gesture. He cannot sit still while his claims are laughed at by a hall of scientists, so he stands alone against the mockery and defends what he witnessed. This shows his hot temper and enormous self-confidence — he believes one man with the truth can face a hostile audience. It also shows genuine scientific passion: what angers him is not insult to himself so much as laughter taking the place of examination.
+
+[CH3-Q29] ANSWER: Challenger forms an investigating party because after years of public mockery no one will believe him alone; his word needs witnesses whom the scientific world trusts. A party of respected men — including his chief critic Summerlee — can test the evidence at the place itself and report the truth with authority. The party is important to him because it is the only path to vindication: if independent scientists confirm his discovery, his name and his claim are finally cleared.
+
+[CH3-Q30] ANSWER: Lord John's previous experience makes him uniquely suitable for the expedition. He knows the Amazon's rivers, distances and peoples from years of exploration and from his feud with Pedro Lopez; he is a sportsman and hunter, expert with the rifle, and he stays calm under pressure. He also knows how to choose and judge local helpers — the practical judgment the professors lack. His presence converts the expedition from a scientific gamble into a survivable undertaking.
+
+[CH3-Q31] ANSWER: Challenger's decision to make the group wait until noon before opening the envelope shows his love of drama and control — he enjoys staging events, keeping others guessing and holding all the power in his own hands. It is also practical: the fixed time and place ensured that the whole team gathered in Manaos before the secret emerged, with no chance of leaks along the way. The theatrical timing reveals a man who believes knowledge — and he alone holds it — should be revealed exactly when and how he chooses.
+
+◆ Critical / JRE
+
+[CH3-Q32] ANSWER: Malone's public volunteering was both courageous and impulsive at once. It was courageous because he stood up in a hostile hall and committed himself to a dangerous journey into the unknown for the sake of an extraordinary claim. It was impulsive because he admits he does not remember deciding to stand — his body rose before his mind agreed. Since the same act showed both nerve and haste, the fairest judgment is that courage and impulsiveness were, in Malone, the same growing force.
+
+[CH3-Q33] ANSWER: Challenger's secrecy about joining the expedition was sensible, with a cost. Sending no written instructions protected the secret route from reporters and strangers, avoided arguments with Summerlee before departure, and guaranteed the party the one guide who had actually seen the plateau. The cost was surprise and tension at Manaos — Summerlee is annoyed at being managed like a pupil. On balance the secrecy was justified: without it the expedition might never have left England unshadowed, and with it the party gained the only perfect guide available — Challenger himself.
+
+[CH3-Q34] ANSWER: The team will depend on Lord John because he supplies what the professors cannot: practical mastery of danger. He knows the Amazon's rivers and peoples, shoots superbly, chooses safe paths, reads tracks, and stays calm while the scientists argue or marvel. When physical crises come — rapids, the bridge, the betrayal, the attacks — it is his decisiveness that protects the group. In effect he is the expedition's insurance: the scientists produce the knowledge, but Lord John keeps them alive to bring it home.
+
+[CH3-Q35] ANSWER: Challenger's claim that his memory beats written directions is partly justified and partly self-serving. It is true that he alone has traveled the route, that papers can be lost, stolen or misread, and that he can adapt guidance to conditions as no document can. But memory is also fallible, and the claim conveniently makes him indispensable and keeps all knowledge in his own hands. A fair judgment: the reason contains real logic, but the deeper motive is secrecy and control — which the story later confirms when his memory does, in fact, deliver the party to the plateau.
+
+[CH3-Q36] ANSWER: A group with different abilities benefits because problems come in different kinds. On this expedition, scientific questions need Challenger's and Summerlee's knowledge, physical survival needs Lord John's experience, and recording and communication need Malone's reporter's eye. A team of four identical professors would never survive the first forest; a team of four hunters would never verify the science. Diversity converts individual weakness into collective strength — each member's gap is covered by another's skill.
+
+[CH3-Q37] ANSWER: A person shows courage without acting for praise by doing what is right or necessary when no one is watching and no reward is expected. In the novel this is exactly Gladys's standard: a brave man acts because courage is part of his character, not to win a woman's applause. Malone moves toward this when he refuses to tell Gladys he is traveling for her. True courage, the novel suggests, is proved by the deed itself, not by the audience that sees it.
+
+[CH3-Q38] ANSWER: A leader protects sensitive information about a valuable place by sharing it only with trusted team members who genuinely need it, recording it safely rather than scattering it, and explaining clearly why it must be protected. In the novel, Challenger follows exactly this logic: he reveals the destination only after the party has gathered at Manaos, makes everyone promise not to publish route details, and keeps the public in ignorance to protect the plateau. The balance to keep is between the safety of secrecy and the team's need for enough information to travel wisely.
+
+[CH3-Q39] ANSWER: Yes, Lord John was right to ask Malone about his practical skills. The journey ahead was dangerous and remote, where every member's ability to shoot, climb, swim and stay calm could decide the group's survival; accepting an untested companion blindly would risk all their lives. His questioning is not rudeness but responsibility — the discipline of a man who has seen expeditions fail because of weak members. The fairness of it is shown by his acceptance of Malone once the young reporter answers honestly.
+
+[CH3-Q40] ANSWER: Summerlee's behavior during the preparations is suitable for the expedition, within his role. He is openly doubtful but never obstructive: he demands proof, agrees to test the claims in person, joins every stage of the journey, and travels to Manaos with the others. His age and thin frame are weaknesses on a physical journey, but his value is scientific verification, not muscle, and his honesty about doubt is itself a form of courage. What makes him suitable is exactly what makes him difficult — he will not pretend to believe what he has not seen.
+
+[CH3-Q41] MODEL ANSWER (JRE):
+Justification: Yes, forming the team with such different personalities was a wise decision.
+Reason: A successful expedition requires diverse skills, and their differences — though they cause arguments — complement one another: one member's weakness is covered by another's strength, so the team can handle science, survival and documentation alike.
+Evidence: Lord John Roxton is brave, experienced and skilled in danger; Professor Summerlee is scientific and sceptical, testing every claim; Malone is young and determined to prove himself; and Challenger provides the knowledge of the route and the claim. Together these qualities make the expedition stronger than any single man could be.
+
+[CH3-Q42] MODEL ANSWER (JRE):
+Justification: Yes, Summerlee's scepticism is valuable to the expedition.
+Reason: Questioning Challenger forces the team to rely on solid proof rather than confidence, keeping the investigation honest and its results credible to the scientific world; too much doubt could cause conflict, but the danger is far outweighed by the rigor it brings.
+Evidence: At the lecture Summerlee demands proof that can be tested before he believes; he refuses to accept the flying creature as a pterodactyl on sight alone, insisting it may be a large bird. His questioning makes the expedition more scientific and careful — and his eventual acceptance, precisely because he was so hard to convince, proves everything.
+
+[CH3-Q43] MODEL ANSWER (JRE):
+Justification: Yes, Lord John Roxton is a very suitable leader for the expedition.
+Reason: Leadership in a wild region requires experience, calm and practical judgment, and he has all three: he knows the Amazon, its rivers and its peoples, and he keeps his head under pressure.
+Evidence: He had traveled through the Amazon before and knew its rivers and local traders; he tests Malone's shooting, climbing, swimming and calm before accepting him; and throughout the preparations he supplies exactly the skills — weapons, organization, local helpers like Zambo — that the professors lack.
+
+[CH3-Q44] MODEL ANSWER (JRE):
+Justification: Yes, Challenger was justified in secretly traveling to Brazil instead of sending written instructions.
+Reason: Written directions could reveal the secret route to reporters and strangers or be lost along the way; his personal presence guaranteed the party the one guide who had actually seen the plateau, and he could adapt the route to real conditions.
+Evidence: When the envelope was opened at noon in Manaos, it contained only a blank sheet of paper; Challenger then appeared and explained that no written directions could be as reliable as his own memory. The secrecy did surprise and annoy Summerlee, but the expedition gained the only perfect guide available.
+
+[CH3-Q45] MODEL ANSWER (JRE):
+Justification: Yes, Malone is motivated by true courage when he decides to join the expedition.
+Reason: True courage means facing a challenge because it is worthwhile, not simply to gain someone's approval — and by this point Malone has begun to learn the difference, accepting real danger for its own sake.
+Evidence: He tells Gladys there may be real danger on the journey; he remembers that a brave act done only to win her approval would not be true courage; and he does not tell her he is traveling for her, choosing to prove himself through his own actions instead.
+
+[CH3-Q46] MODEL ANSWER (JRE):
+Justification: Yes, the chapter shows that teamwork matters more than individual ability.
+Reason: The expedition's tasks are too various for any single member — science, verification, survival and recording — so each man depends on the others' skills both to succeed and to stay alive.
+Evidence: Challenger needs Summerlee to verify his claims credibly; the elderly Summerlee needs younger companions like Malone and Lord John for the physical journey; Lord John tests Malone's skills because every member's ability protects all; and the local helpers Zambo, Gomez, Manuel and the boatmen carry the expedition through the river country. No individual genius could replace that combination.
+
+[CH3-Q47] MODEL ANSWER (JRE):
+Justification: Yes, Summerlee's decision to continue with the expedition despite his disagreement with Challenger was admirable.
+Reason: It is easy to doubt from an armchair and hard to doubt on foot: he commits his comfort, and possibly his life, to testing a claim he considers unproven — which is scientific integrity and open-mindedness of a high order.
+Evidence: He publicly challenges Challenger to provide testable proof, then volunteers to test the claims in person; he joins the preparations while remaining openly doubtful, and travels with the party all the way to Manaos — a sceptic doing the hard work his scepticism demands.
+
+[CH3-Q48] MODEL ANSWER (JRE):
+Justification: No, the audience was not right to laugh at the idea of prehistoric creatures surviving.
+Reason: An extraordinary idea deserves examination of its evidence, not mockery before examination; laughter blocked the scientific process and humiliated a man who turned out to be right.
+Evidence: At the lecture the crowd laughs at stories of prehistoric creatures, and Challenger angrily protests that scientific evidence should be examined seriously, not laughed at; the later discoveries — the iguanodons and pterodactyls on the plateau — prove the laughing majority wrong and Challenger right.
+
+[CH3-Q49] MODEL ANSWER (JRE):
+Justification: The guiding principle from the novel is to judge the claim by its evidence, not by the personalities arguing over it.
+Reason: The team's strongest disagreements are between Challenger's certainty and Summerlee's doubt; a newcomer who sides with a personality — either the confident man or the sharp critic — inherits that man's errors, while a newcomer who demands proof reaches the truth whichever man is right.
+Evidence: Summerlee demands proof that can be tested rather than accepting or rejecting Challenger's word, and only direct observation — the iguanodons and pterodactyls — settles the dispute; the lecture audience, which judged by laughter instead of evidence, is proved entirely wrong.
+
+[CH3-Q50] MODEL ANSWER (JRE):
+Justification: Summerlee's skepticism and Challenger's certainty together create the expedition's scientific purpose — an organized test of an extraordinary claim.
+Reason: Challenger supplies the claim, the evidence and the route; Summerlee supplies the refusal to believe without verification; their collision at the lecture produces the investigating party, which exists precisely because a claimant and a sceptic have agreed to let the place itself decide.
+Evidence: At the Zoological Institute Summerlee challenges Challenger to provide testable proof and volunteers to test it himself; Challenger proposes Summerlee, Roxton and Malone as the investigating party; the motion is accepted — and the expedition travels with both the claimant and his chief critic aboard, so its verdict will be credible.
+
+[CH3-Q51] MODEL ANSWER (JRE):
+Justification: The strongest cause of the team's practical strength is their complementary skills and local support, not the famous status of its members.
+Reason: Fame does not paddle a canoe, carry supplies through bamboo, or aim a rifle — ability does; the mixture of scientific knowledge, survival experience, youthful energy and local helpers is what actually moves the expedition through the river country.
+Evidence: Lord John's Amazon experience and his skill tests of Malone; the local men Zambo, Gomez, Manuel and the Indigenous boatmen who handle the rivers and the supplies; and the two professors whose science verifies rather than transports. Every mile gained is the work of abilities working together — none of it the work of a famous name.
+
+◆ Quotes / MCQ / T-F
+
+[CH3-Q52] ANSWER: Malone's words come as his answer to Lord John's questioning about his skills: he cannot shoot, climb or swim to the explorer's standard — but, he says, "I can learn what I do not know." The line reveals his attitude: honest modesty joined to complete confidence in his own growth. He neither lies about his abilities nor lets weakness disqualify him; he treats ignorance as a temporary condition, not a permanent identity. It is the learner's courage — the exact quality that will carry him through the expedition — and it is what convinces Lord John to accept him.
+--- CHAPTER 4: INTO THE UNKNOWN ---
+
+◆ Comprehension
+
+[CH4-Q1] ANSWER: The explorers leave the steam launch Esmeralda because the Amazon tributary narrows and becomes impossible for a large boat — rapids block the way, and the launch is sent back. They continue in light canoes; when the water becomes too shallow even for canoes, they leave the canoes too and go on, on foot, carrying their supplies.
+
+[CH4-Q2] ANSWER: Challenger refuses to reveal the exact route — and makes all the expedition promise never to publish enough information for strangers to find the plateau — because he fears that careless visitors would flood and destroy a place that science has barely begun to discover. After years of mockery and accusations of fraud, he also simply trusts no outsiders with the secret.
+
+[CH4-Q3] ANSWER: During the overland trek Challenger and Summerlee argue constantly about the direction: Challenger insists on navigating by his compass and his own certainty, while Summerlee trusts the judgment of the experienced local guides. Lord John ends the quarrel with humor, telling the professors to save their energy for whatever has "bigger teeth" — and the party keeps moving.
+
+[CH4-Q4] ANSWER: The first convincing evidence is the great red cliffs and the separate rock tower, seen exactly as Maple White had drawn them in his sketchbook — the same place, the same shapes, even the tree on the tower's summit. Summerlee's reaction is grudging: he admits only that the cliffs are real, insisting that this proves the artist drew a landscape well and nothing more.
+
+[CH4-Q5] ANSWER: Finding no path up the sheer cliff, the explorers climb the separate rock tower that stands near the main wall. From its summit they cut down the tree growing there in the right direction, so that it falls across the chasm between the tower and the plateau. The fallen trunk becomes a bridge, and the four men cross it one by one.
+
+[CH4-Q6] ANSWER: Gomez destroys the tree bridge out of revenge: Lord John had killed his brother, Pedro Lopez, years earlier, and Gomez has waited years to repay him. After the explorers cross onto the plateau, he pushes the tree down into the depths, removing their only way back and trapping them above.
+
+[CH4-Q7] ANSWER: The sequence is this: unable to find a path up the cliff, the explorers climb the rock tower, fell its tree across the chasm, and cross the trunk-bridge onto the plateau one by one — Challenger first, Lord John last. They walk a short distance into the bushes; then they hear a terrible cracking sound, rush back, and find the bridge destroyed. Gomez, on the tower, reveals that Pedro Lopez was his brother and that he has waited years for revenge — and the four men are stranded on the plateau.
+
+[CH4-Q8] ANSWER: Challenger insists on crossing first out of pride and eagerness: after years of mockery, he wants to be the first man to set foot on the lost world and to claim the achievement. Once across, he stands with both arms raised in triumph, shouting "At last!" — the moment of public vindication for a man his enemies called a liar.
+
+[CH4-Q9] ANSWER: As the group travels farther from the settled rivers, the wildlife grows steadily less afraid of humans: monkeys and birds watch them calmly instead of fleeing, and even a puma barely bothers to move. The behavior shows that they are entering a region rarely or never visited by people — where man is not yet a known danger.
+
+[CH4-Q10] ANSWER: The two local guides are reluctant because they have been near this country before, with Challenger, and they fear it. To them the plateau is a haunted, forbidden place of unknown dangers, and their dread warns the explorers that the region has a bad reputation among the very people who know it best.
+
+[CH4-Q11] ANSWER: The group struggles because the main cliff of the plateau is almost vertical — a sheer wall of rock with no path, foothold or slope, and the cave passage that might have led up is blocked. With no natural way up the great height, they are forced to hunt for another idea — which is when the separate rock tower beside the cliff gives them the solution.
+
+[CH4-Q12] ANSWER: The immediate consequence of Lord John firing at Gomez is that the betrayer falls, struck down from the tower — the punishment is delivered on the spot. But the shot cannot restore the bridge: the tree is gone into the chasm, so the deeper consequence remains — the four explorers are still trapped on the plateau with no way down.
+
+[CH4-Q13] ANSWER: The canoe stage of the journey is described as almost holiday-like: the river is calm and beautiful, birds and monkeys fill the trees, the men fish from the canoes, and the party travels at an easy pace with its supplies. The pleasant mood and good humor make the change all the sharper when the water shallows and the hard land journey begins.
+
+[CH4-Q14] ANSWER: The landscape changes steadily as they leave the river: the wide Amazon gives way to a narrowing tributary with rapids; the banks close into dense tropical forest of palms and tree-ferns; thick bamboo forces them to cut a path; and the ground rises into rocky slopes until the great red cliffs of the plateau rise ahead — wilder, higher and emptier of men at every stage.
+
+[CH4-Q15] ANSWER: The animal was the huge grey flying creature they sighted on the ninth day — the great shape that flew over the tree-ferns and disappeared into the forest. Challenger cried "A pterodactyl!" at the sight of it, while Summerlee insisted it was only a large bird.
+
+[CH4-Q16] ANSWER: After crossing the ridge, the explorers saw the great red cliffs of the plateau, exactly as Maple White had drawn them — with the separate rock tower standing apart from the main wall, a tree growing on its summit. It was the confirmation that they had reached the true place, Maple White Land.
+
+[CH4-Q17] ANSWER: They used a thin rope thrown across the gap: from below, the loyal Zambo fastened food and ammunition to the line and pulled or sent them across the chasm to the trapped explorers above. That thin rope became the four men's only lifeline to the world below.
+
+[CH4-Q18] ANSWER: Summerlee refuses to accept that the flying creature is a pterodactyl because he remains a sceptic to the bone: a brief glimpse, he argues, proves nothing, and the creature may simply be a large bird of an unfamiliar kind. He will change his labels only when the evidence stands in front of him.
+
+[CH4-Q19] ANSWER: The equipment the explorers carry makes the journey on foot possible. Their food supplies, ammunition and rifles protect and feed them through the forest; ropes, tools and camping gear let them cross obstacles, cut paths through the bamboo, and camp in safety; and by distributing the loads among the party and their helpers, they keep moving without the launch or the canoes.
+
+[CH4-Q20] ANSWER: The local guides are important because they know the rivers, the paths and the habits of the region: they handle the canoes through difficult water, know where the land is passable, and carry the supplies on the overland stages. Their knowledge also protects the expedition — their very fear of the plateau warns the explorers that they are entering a place local people refuse to treat lightly.
+
+◆ Analysis
+
+[CH4-Q21] ANSWER: Zambo and Gomez are presented as the chapter's two moral opposites. Gomez, secretly nursing his family grudge, waits for the perfect moment and destroys the bridge — betraying the men who trusted him and leaving them trapped. Zambo, by contrast, stays below the cliffs after the betrayal, climbs the opposite tower to keep contact, and pulls food and ammunition across the gap by rope, promising help in every way he can. Together they show that in the greatest dangers, loyalty and treachery both come from human choices.
+
+[CH4-Q22] ANSWER: The sighting sharpens the story's central conflict. Challenger instantly names the creature a pterodactyl — for him it is living proof of his prehistoric world; Summerlee just as instantly dismisses it as "a large bird" — for him one glimpse proves nothing; and Lord John takes the careful middle ground, unable to identify it but struck that no bird he has ever seen is shaped like that. The scene shows that the same fact can be evidence or nothing depending on the observer — the dispute will only be settled on the plateau itself.
+
+[CH4-Q23] ANSWER: Lord John's actions during the climb and the betrayal reveal his character fully. On the bridge he crosses last — steady and unhurried, guarding the others' safety before his own — showing self-control and responsibility. When Gomez appears and gloats over the destroyed bridge, Lord John responds with instant, cold decisiveness: he raises his rifle and fires. His character is the complete soldier-explorer — calm courage joined to readiness to act the moment action is needed.
+
+[CH4-Q24] ANSWER: The order of crossing is itself a set of portraits. Challenger goes first — pride and hunger for the achievement, the vindicated man claiming his world at once with his cry of "At last!". The others follow, each fighting his own fear on the swaying trunk. Lord John crosses last — deliberately, after making sure every companion is safely over — revealing the protector's instinct: his place is where the danger to the group is greatest. The sequence tells us who the men are.
+
+[CH4-Q25] ANSWER: Malone conveys the terror of the crossing through his reporter's eye for physical detail. The narrative lingers on the drop beneath the swaying trunk, the great height of the chasm, the slow careful steps, and the strange silence of the men as they cross — fear expressed in what they do not dare to do as much as in what they do. Small touches — the wood's groan, hands gripping, eyes fixed forward — put the reader on the trunk with them, feeling that one wrong step means the abyss.
+
+[CH4-Q26] ANSWER: The suspense before the destruction is built by delay and sound. The men have just crossed the fatal bridge and walk peacefully into the bushes; then comes a sudden, terrible cracking sound from behind — not an explanation, only a sound. They rush back shouting, and before they understand anything, a voice from the tower begins to speak — Gomez, leisurely revealing his identity and his reasons while the truth dawns on the trapped men. Between the crack, the run, and the slow, gloating explanation, the reader is held exactly where the explorers are: knowing the world has broken, not yet knowing why.
+
+[CH4-Q27] ANSWER: The thin rope is the chapter's symbol of hope — and of the explorers' absolute dependence. After the betrayal, the four men above and the loyal Zambo below are joined only by that fragile line, across which food and ammunition are pulled, load by load. The detail keeps survival itself suspended: cut the rope, and the men starve; keep it, and the plateau is survivable. It also measures character: Gomez destroys the bridge, while Zambo holds the rope.
+
+[CH4-Q28] ANSWER: The cliffs themselves become evidence for Maple White's accuracy. When the explorers reach them, the great red wall, the separate rock tower and the tree on its summit are all exactly as the sketchbook drew them — the same shapes in the same relations. A man who drew a landscape this faithfully was drawing what he truly saw; so his stranger drawings, of creatures no modern artist should know, gain credibility from the landscape's proven truth.
+
+[CH4-Q29] ANSWER: The journey becomes more difficult at every stage because each stage removes a comfort and adds an obstacle. First the rapids end the steam launch's usefulness; then the shallows end the canoes; then the land itself turns hostile — dense bamboo to cut through, rising rocky slopes, exhausting heat. Finally the vertical cliffs of the plateau end walking altogether, forcing the dangerous bridge solution. The escalating difficulty measures both the remoteness of the goal and the determination of the men pursuing it.
+
+[CH4-Q30] ANSWER: On reaching the plateau, the two professors respond as their natures dictate. Challenger is triumph itself — arms raised, shouting "At last!", tasting the vindication of years of mockery; for him arrival is the proof and the reward. Summerlee remains the scientist of doubt: he agrees to begin the investigation but refuses to predict its end — the place exists, but what lives on it is not yet decided. Their two reactions are the chapter's whole argument in miniature: certainty that has arrived, and caution that has not yet concluded.
+
+[CH4-Q31] ANSWER: The flying creature is made frightening by the very lack of familiar markers. It is huge and grey, with great moving wings and an outline unlike any bird the men know; it appears suddenly and silently over the tree-ferns, is seen only briefly, and disappears into the forest. Challenger's shocked cry — "A pterodactyl!" — and Summerlee's insistence on "a large bird" both tell the reader that the thing does not fit any easy category. An animal that cannot be named is more alarming than one that can.
+
+[CH4-Q32] ANSWER: The main cliff is a serious obstacle because it combines height, smoothness and finality. It is nearly vertical for a great distance, offering no path, no footholds and no cover — ordinary climbing is simply impossible. The cave passage that might have led upward is blocked, so the wall admits no alternative. Until the separate rock tower offers its tree, the plateau is a fortress with no gate: the party can reach it but not enter it.
+
+[CH4-Q33] ANSWER: Traveling through the bamboo is an ordeal of slow, punishing labor. The bamboo stands so dense that the men must cut their way forward step by step, swinging tools in tropical heat while the carriers struggle with the loads. The endless green tunnel hides what lies beyond — animals, gaps, the way itself — so progress is blind as well as slow. Tempers suffer too: it is in this stretch that Challenger and Summerlee's arguments flare and Lord John must quiet them — the bamboo tests patience as much as muscle.
+
+[CH4-Q34] ANSWER: Gomez's revenge welds the expedition to Lord John's past life. Years before, Lord John fought the unfair rubber-trading group of Pedro Lopez and killed him — an act of justice in his own eyes. Gomez was Lopez's brother, and his hatred for Lord John was a family debt waiting to be collected. When he destroys the bridge and gloats over the trapped men, the expedition learns that even at the world's edge the past is not left behind: old conflicts ride along, and the unknown world contains a very human danger.
+
+[CH4-Q35] ANSWER: The forest journey tests determination by making every stage cost more than the last. The men exchange boat for foot, comfort for labor, known rivers for unknown forest; each obstacle — rapids, shallows, bamboo, slopes — demands more effort than the one before, while the arguments between the professors add friction from within. Lesser men would turn back at any of these points; the party cuts on instead. Their arrival at the cliffs is therefore not luck but proof of will: determination is what the journey measured, all the way up.
+
+[CH4-Q36] ANSWER: The arrival on the plateau is a double event: triumph and trap. As success, it is everything the expedition crossed an ocean and a continent for — the lost world reached, the route verified, the great claim at the point of proof. As new danger, it is immediate and total: the bridge is destroyed, the way back is gone, supplies are limited to what Zambo can pull across a thin rope, and the land around them is full of unknown creatures. Achievement and peril arrive in the same moment, which is the chapter's iron design.
+
+[CH4-Q37] ANSWER: Lord John's reaction to the flying creature — that no bird he has ever seen is shaped like that — reveals the honest observer. He claims neither Challenger's certainty nor Summerlee's dismissal: he reports exactly what his eyes gave him, no more. That restraint is the mark of his whole character — a man of facts and not theories, who will act when action is needed and refuses to guess when guessing is offered. In a team of claimers and doubters, he is the witness.
+
+[CH4-Q38] ANSWER: The ending suspends the four men — and the reader — between everything and nothing. They stand on the plateau of their dreams at nightfall, with their bridge gone, their fate shaped by a betrayer escaped below, and only a lantern and Zambo's thin rope connecting them to the human world. The chapter closes with night coming down on Maple White Land, and no answer yet to any of the questions the reader now holds: what lives here, how will they survive, and how will they ever leave?
+
+◆ Critical / JRE
+
+[CH4-Q39] ANSWER: The decision to cross the tree bridge was a justifiable gamble, though a costly one. The scientific goal was of the highest importance — they had crossed an ocean and a continent to test the greatest claim in zoology, and no other route onto the plateau existed; turning back at the final step would have wasted everything. But the physical risk was extreme — a single swaying trunk over a fatal chasm — and the real failure of judgment was not the crossing itself but leaving no secure way back. The trap that followed came not from the risk they accepted but from the enemy they forgot: Gomez. On balance it was worth it — but only because the story lets them survive to prove it.
+
+[CH4-Q40] ANSWER: Challenger's secrecy over the location was justified in principle but created real danger. For it: a careless world had mocked and accused him, and an unknown place with unknown animals needed protection from floods of careless visitors and hunters — part of a scientist's responsibility. Against it: if anything went wrong, no one outside the tiny party knew where they were, so rescue or even communication was nearly impossible — exactly what happens after Gomez's betrayal, when the men's survival hangs on one thin rope. The fairest judgment: protecting the plateau was a genuine good, but secrecy so total that the expedition's survival depended on a rope was a mistake whose price this chapter makes clear.
+
+[CH4-Q41] ANSWER: Challenger's excitement at the sighting was ultimately justified by events. The huge grey creature was, as he claimed, a pterodactyl — confirmed later by the rookery of hundreds on the plateau — so his identification proved to be accurate scientific recognition rather than vanity. Yet at the moment itself his certainty outran the evidence: one glimpse, no specimen, and a serious skeptic's alternative (a large bird) on offer. The balanced conclusion: his excitement was emotionally right and scientifically premature — a case of a man announcing the correct conclusion slightly before the proof arrived, which the following chapters then supply.
+
+[CH4-Q42] ANSWER: The ending supplies both hope and dread in equal measure, which is exactly its design. The dread is open: four men imprisoned on a plateau of unknown creatures, their bridge destroyed, their supplies limited, night falling. The hope is just as real: the loyal Zambo is below with the rope and the promise of help; food and ammunition are coming up across the gap; and the four men — scientist, sceptic, soldier and reporter — are a team that has survived every stage so far. The reader closes the chapter certain of danger and uncertain of rescue — the exact mixture that compels turning the page.
+
+[CH4-Q43] ANSWER: Before crossing the tree bridge, I would set the rules the explorers sadly lacked. First, cross one at a time with loads balanced — a swaying trunk is safest for a single careful walker. Second, use a safety rope secured above, so that a slip ends in a swing, not a fall. Third, keep an armed guard watching both the bridge and the surroundings during every crossing — the tower is exactly where an enemy would strike. Above all, once everyone is across, secure or guard the bridge before exploring: one sentry left at the tree would have caught Gomez before his destruction. The rules cost an hour; their absence cost the whole way home.
+
+[CH4-Q44] ANSWER: When a planned route becomes impossible, a group's first duty is calm assessment: stop, secure the essentials — supplies, safety, communication — and consult those with the most experience, in this expedition Lord John and the local guides. Alternatives should then be judged by risk, not by hope: the explorers did this well when the cliff path failed and they found the tower-bridge solution, but poorly when they crossed without securing their retreat. The rule the novel teaches: a new route is only a solution if it still leaves you a way back or a way to survive — otherwise it is a trap with scenery.
+
+[CH4-Q45] ANSWER: In hindsight Lord John should have been more cautious with Gomez — but only hindsight makes that possible. The danger was real but invisible: Gomez was Pedro Lopez's brother, and a man whose family Lord John had destroyed was carrying an old grudge among them; on any remote expedition such hidden hatred is the deadliest cargo. Yet Lord John could not reasonably have known the connection — Gomez was one of the carefully chosen, capable helpers, and his loyalty had seemed dependable until the moment of betrayal. The fair judgment: trusting Gomez was an understandable mistake, but the episode teaches that in dangerous country a leader should know the personal histories of the men he depends on.
+
+[CH4-Q46] ANSWER: Lord John's reaction is the more reasonable of the two. He does what a good observer should: he states exactly what he saw — that no bird he has ever seen is shaped like that — without forcing the fact into either a revelation or a dismissal. Summerlee's instant "large bird" is as much a leap as Challenger's instant "pterodactyl": both men decide before examining. In science, honest uncertainty — "I do not know what it was" — is often the truest position, and Lord John holds it. The novel quietly makes its best observer the man who refuses to theorize ahead of his evidence.
+
+[CH4-Q47] ANSWER: Gomez's revelation rewrites him from a traitor into an avenger — which explains his crime without excusing it. Learning that Pedro Lopez was his brother makes his hatred intelligible: from Gomez's side, Lord John killed his kin and destroyed his family's power, and the waiting years were grief and purpose fused together. It also makes the betrayal colder and more deliberate — this was not panic or greed but a patient plan, which is why he can gloat over the trapped men. Understanding him, however, stops at the innocent: whatever Lopez's crimes, the explorers as a group did not kill him, and Gomez condemns four men — three of them blameless — to die on the plateau for another man's deed.
+
+[CH4-Q48] ANSWER: Zambo's role after the trap becomes the difference between life and slow death. He stays below when others might flee the scene of the betrayal; he climbs the opposite tower to keep voice-contact with the trapped men; he fastens food and ammunition to the thin rope and pulls them across, load by load; and he serves as the expedition's only channel to the outer world — messages, supplies, and the hope of help arranged from the river. Without his loyalty the four men are simply prisoners of the plateau; with it they are besieged but supplied. His importance to their survival is total.
+
+[CH4-Q49] ANSWER: Challenger's reaction upon reaching the plateau — both arms raised, the triumphant cry of "At last!" — reveals him completely. It shows the wounded vanity of a man publicly mocked for years, now tasting a vindication no audience can deny him; it shows the genuine passion beneath the arrogance, a scientist whose life's claim has just been touched by his own boots. It also shows the fault line of his character: even at the moment of shared triumph he thinks of the achievement as his, not the team's. Pride is both his engine and his blindness — the same force that carried him through years of mockery now fills a moment that should have belonged to four men.
+
+[CH4-Q50] MODEL ANSWER (JRE):
+Justification: Yes, Zambo deserves to be considered one of the heroes of the expedition.
+Reason: When the betrayal makes loyalty the difference between life and death, Zambo supplies it completely — strength, cheerfulness and practical skill placed entirely at the trapped men's service, when he could simply have abandoned them like others below.
+Evidence: He is described as a huge, cheerful, strong and loyal man, chosen carefully by Lord John; after Gomez destroys the bridge, Zambo stays below, climbs the opposite tower, helps pass food and ammunition across by rope, and promises to help in every possible way — the very services that keep the explorers alive.
+
+[CH4-Q51] MODEL ANSWER (JRE):
+Justification: Yes, Lord John's past actions help explain Gomez's betrayal — they explain it, though they do not justify it.
+Reason: Lord John fought the unfair rubber-trading group of Pedro Lopez, and the end of Lopez's power made Lord John both loyal friends and dangerous enemies; Gomez, Lopez's brother, inherited that hatred and waited years to collect it.
+Evidence: Lord John himself says the feud earned him some loyal friends and some dangerous enemies; Gomez reveals on the tower that Pedro Lopez was his brother and that he has waited years for this revenge before pushing the bridge away. The betrayal is thus the old feud arriving at the new world.
+
+[CH4-Q52] MODEL ANSWER (JRE):
+Justification: Yes, Summerlee's careful attitude remains useful after they reach the plateau.
+Reason: The plateau is precisely the place where wishful thinking is most tempting and most dangerous; the team needs someone who examines what is actually seen rather than what is hoped for, and who keeps conclusions tied to evidence.
+Evidence: While Challenger celebrates arrival as vindication, Summerlee says only that the investigation can begin and that he has not yet said how it will end; later his insistence on checking labels and evidence keeps the expedition's science honest — and it is his verified conversion, not Challenger's boasts, that makes the discoveries credible.
+
+[CH4-Q53] MODEL ANSWER (JRE):
+Justification: Yes, Lord John shows great courage and self-control throughout the chapter.
+Reason: His courage appears in action under real danger, and his self-control in the discipline of how and when he acts — steady where others waver, decisive only when action is truly needed.
+Evidence: He crosses the swaying tree bridge last and calmly, after seeing the others safely over; he stops the professors' quarrel with humor instead of heat; and when Gomez appears over the destroyed bridge, he neither rages nor hesitates — he raises his rifle and fires.
+
+[CH4-Q54] MODEL ANSWER (JRE):
+Justification: Yes, replacing the steam launch with canoes was wise — indeed, it was the only possible choice.
+Reason: The Esmeralda could only travel the wide main river; when the tributary narrowed and the rapids began, a large steam launch became useless and even a danger, while light canoes could pass where no deeper boat could follow.
+Evidence: The launch is sent back when the narrowing river and the rapids make further travel impossible; the party continues in canoes for a time, and only when the water grows too shallow do the canoes too give way to walking. Each change of transport matches the river's real conditions.
+
+[CH4-Q55] MODEL ANSWER (JRE):
+Justification: Yes, Lord John was right to stop Challenger and Summerlee from arguing.
+Reason: On a dangerous journey, quarrels waste the energy the body will need, divide the team when unity is survival, and slow decisions that must be quick; his humor ended the dispute without humiliating either professor.
+Evidence: During the overland trek the professors argue over navigation — Challenger's compass against Summerlee's trust in the local guides — while the bamboo still has to be cut and unknown dangers lie ahead; Lord John's joke, that they should save their strength for something with "bigger teeth", closes the argument and moves the party forward.
+
+[CH4-Q56] MODEL ANSWER (JRE):
+Justification: Yes, reaching Maple White Land remains a success even though the explorers became trapped.
+Reason: The expedition's whole purpose — to enter the lost world and test Challenger's claim — was achieved at the moment of crossing; the trap is a grave new problem, but it does not undo the discovery, and the men retain supplies, a lifeline through Zambo, and the means to investigate.
+Evidence: All four explorers cross onto the plateau and stand in Maple White Land itself; Zambo stays loyal below and pulls food and ammunition across by rope; and the following chapter shows them building Fort Challenger and observing living dinosaurs — the proof they crossed the world to find.
+
+[CH4-Q57] MODEL ANSWER (JRE):
+Justification: Yes, the explorers' decision to enter the plateau despite the dangers was justified.
+Reason: They had spent weeks and a continent of effort to reach the only place that could settle the greatest scientific question of the age; refusing the final step would have made the whole journey meaningless, and the danger was the known price of the knowledge they sought.
+Evidence: They had endured rapids, shallows, bamboo and the sheer cliffs; the tree bridge was the single route onto the plateau; and the moment of entering is the moment the claim begins to be verified — the iguanodons and pterodactyls of the next chapter exist because the men stepped across.
+
+[CH4-Q58] MODEL ANSWER (JRE):
+Justification: Yes, Gomez's actions can be understood — family loyalty and grief are human motives — but they cannot be justified.
+Reason: From inside his story, Gomez is avenging a brother Lord John killed and a family power Lord John ended; his hatred is the shape his love took. But his revenge punishes men who did nothing to him — three of the four never touched his quarrel — and condemns them to die on the plateau.
+Evidence: Gomez announces that Pedro Lopez was his brother and that he has waited years; he pushes the bridge away with the words that their bones will stay up there. The motive is human; the deed condemns the innocent along with the guilty.
+
+[CH4-Q59] MODEL ANSWER (JRE):
+Justification: The strongest cause of the group becoming trapped is Gomez's deliberate action, not the physical risk of the tree bridge.
+Reason: The bridge itself was crossed safely by all four men — the physical risk, real as it was, was successfully managed; what no one could manage was human malice waiting on the tower, for without Gomez the tree would simply have remained in place as their way back.
+Evidence: All four cross without accident; they are trapped only when the cracking sound announces the bridge's destruction, and Gomez then reveals his revenge for Pedro Lopez as the reason the tree was pushed away. The cliff did not trap them — the man did.
+
+◆ Quotes / MCQ / T-F
+
+[CH4-Q60] ANSWER: Summerlee's words are his answer to Challenger's triumph at reaching the plateau — and they define him. Even standing inside the lost world, he refuses to let arrival become conclusion: the investigation "can begin", but its ending — whether it confirms or destroys Challenger's claims — is still open. The line reveals the permanent sceptic's discipline: he will not let excitement write the report before the evidence does. It is also the chapter's honest note — the plateau is entered, but nothing on it is yet proved.
+
+[CH4-Q61] ANSWER: The line is Malone's realization, at the moment of the betrayal, that Gomez's hatred has followed the expedition to the world's edge. Lord John's killing of Pedro Lopez happened years earlier and far away — yet here stands Lopez's brother, destroying their bridge above the Amazon. The sentence means that no one travels beyond the reach of history: human conflicts, grudges and debts ride along wherever men go. Within the chapter it turns the trap from bad luck into consequence — the "unknown" world contained a very known danger.
+
+[CH4-Q62] ANSWER: Lord John's phrase comes as his way of ending the professors' navigation argument: save your strength for the thing with "bigger teeth". It is humor with a serious center — the journey's real dangers are physical and hungry, and quarrels about compasses are luxuries. The phrase also foreshadows exactly what the plateau holds: a carnivorous dinosaur whose tooth and claw marks are found in the next chapter on the torn body of a plant-eater. Under the joke stands Lord John's practical creed — save the debating for the enemy that can actually bite.
+--- CHAPTER 5: TRAPPED IN THE LOST WORLD ---
+
+◆ Comprehension
+
+[CH5-Q1] ANSWER: The iguanodons provide the strongest possible evidence because the explorers see living prehistoric animals with their own eyes — enormous creatures matching the descriptions in the scientific books, moving, feeding and behaving like any living herd. No drawing, photograph or bone can compare with direct observation; the sight proves that prehistoric animals really survived on the plateau exactly as Challenger claimed — and even Summerlee, the chief sceptic, admits it.
+
+[CH5-Q2] ANSWER: Summerlee finally accepts the theory because he sees the evidence with his own eyes: a living herd of enormous iguanodons feeding peacefully in front of him. As a scientist he has always demanded direct proof rather than claims, and no honest observer can deny animals he is watching. His acceptance is the exact working of his own scientific standard — belief follows evidence.
+
+[CH5-Q3] ANSWER: At the swampy basin the explorers discover hundreds of pterodactyls crowded with their leathery eggs and young around the green pools. When one creature spots the intruders, the whole flock rises and attacks — snapping beaks and beating wings wound the men — so they are forced to run quickly for the trees and escape beneath the branches, with Lord John's rifle covering the retreat.
+
+[CH5-Q4] ANSWER: From observing the pterodactyls the scientists learn that the creatures are real, numerous and breeding: hundreds of them live around the swamp with eggs and young, nesting and rearing their families like any living species. The observation confirms their appearance and behavior first-hand — direct proof that prehistoric flying reptiles not only survived but thrive on the plateau.
+
+[CH5-Q5] ANSWER: The explorers' first task on the plateau was to secure the basics of survival: find water and build a safe camp. They chose a clearing, built the shelter of thorny branches they named Fort Challenger, and only then began exploring the lost world around them.
+
+[CH5-Q6] ANSWER: The explorers chose a safe place for Fort Challenger because they were strangers in a land of unknown dangers. They picked an open clearing near water, surrounded it with thorny branches as a barrier, and kept the camp visible in all directions — a defensible base where they could sleep, store supplies, and watch for whatever creatures the plateau might send against them.
+
+[CH5-Q7] ANSWER: The damaged supplies — crushed food tins, a broken ammunition box and scattered stores, with no clear footprints — suggest that a strong and clever creature entered the camp while the men were away. Something able to crush metal and break into their stores, and to come and go without leaving tracks, may be watching them from the trees: a danger more intelligent than any animal they have yet met.
+
+[CH5-Q8] ANSWER: Lord John shows his practical value constantly: he chooses safe paths, studies tracks and signs, watches the wind and the surroundings, keeps his rifle ready, organizes the watch and the fires, and at the pterodactyl swamp covers the group's escape with his rifle. While the professors collect knowledge, he keeps the group alive — the plateau is dangerous and the explorers are trapped, and his whole attention is on their survival.
+
+[CH5-Q9] ANSWER: The professors are excited even in danger because for scientists every danger is also a discovery: the attacking pterodactyls are the first living specimens ever observed, the predator's marks on the torn plant-eater are evidence of a carnivorous dinosaur, and the strange signs around the camp point to new species or new beings. To men who have spent their lives on dead fossils, the lost world's dangers are the richest scientific material imaginable — personal risk is a small price for knowledge no man has ever had.
+
+[CH5-Q10] ANSWER: Summerlee advises the group not to create a theory before finding evidence because conclusions built on fear and guesses are not science. In a place as strange as the plateau, imagination runs easily ahead of the facts — the damaged camp could be blamed on any creature. He insists they observe first and explain after: theory must follow evidence, not replace it.
+
+[CH5-Q11] ANSWER: A pterodactyl stabbed Malone in the neck with its beak during the attack at the swamp. The wound was painful but not fatal, and he escaped with the others beneath the trees.
+
+[CH5-Q12] ANSWER: The footprint increases their fear because it is broad and human-like — yet no man is known to live on the plateau, and its shape fits no animal they have seen. Combined with the food vanishing from the camp and the strange clicking call in the dark, it suggests that something man-like, strong and intelligent is watching them — and an enemy that can think is more frightening than any beast, because beasts only hunger.
+
+[CH5-Q13] ANSWER: The explorers believe they may be watched because the signs accumulate quietly: food disappears from the camp without tracks, a strange clicking call sounds through the darkness, a broad human-like footprint appears where no man should be, and the ransacked supplies show a strength no small animal has. Each clue alone might be explained away; together they suggest a hidden, intelligent observer who comes and goes unseen.
+
+[CH5-Q14] ANSWER: Near the distant caves Malone noticed smoke — a thin line rising into the sky. Since fire does not happen by itself in that place, smoke usually means people: someone, or something intelligent enough to make fire, lives on the lost world.
+
+[CH5-Q15] ANSWER: Malone contributes in both his roles. As the expedition's reporter he observes and records everything that happens — the record the world will someday read. As an explorer he takes his full share of work and risk: he keeps watch, and he climbs the tall tree at the edge of the clearing to scout the country, making from there the vital discovery of the central lake and the smoke by the caves.
+
+◆ Analysis
+
+[CH5-Q16] ANSWER: Summerlee's reaction shows the sceptic transforming into a believer — and then into the opposite of a sceptic, an enthusiast. He begins as the expedition's professional doubter; watching the iguanodons feed, he forgets to argue and simply admits that Challenger was right; after the pterodactyl swamp he calls the creatures "remarkable" even while wounded. By the end he argues not about whether the animals exist but about how to classify them. The change does not weaken him — it proves his science: he doubted exactly as long as the evidence had not arrived, and no longer.
+
+[CH5-Q17] ANSWER: The chapter builds the lost world as a double image of wonder and threat. Its wonders are endless: strange plants and giant insects, a peaceful herd of iguanodons feeding in the open, pterodactyls rearing their young, a land where extinct life still lives. Its dangers are just as real: the torn plant-eater proves a carnivorous dinosaur hunts nearby; the pterodactyl flock attacks and wounds the men; the camp is invaded by something strong and unseen; and smoke suggests intelligence watching from the caves. Wonder and danger come from the same source — the prehistoric world itself — which is why the explorers can never have one without the other.
+
+[CH5-Q18] ANSWER: The contrast defines the expedition's two kinds of value. Challenger and Summerlee, at the swamp, are transfixed by science — wings, beaks, eggs, classification — marveling at a treasure no scientist has ever seen, even while the creatures are wounding them. Lord John sees the same scene through survival's eyes: sharp beaks are wounds, the flock is a threat, the only question is how to get the men out alive — and his rifle answers it. The scene's meaning is that both reactions are necessary: the knowledge is why they came, and the practical man is why they live to bring it home.
+
+[CH5-Q19] ANSWER: Summerlee's acceptance matters because he is the expedition's authority of doubt. As long as the chief sceptic disbelieved, the world could dismiss Challenger's claim as one man's fantasy; when the most qualified doubter in England admits the theory is right, the claim has passed the hardest test it can receive. Within the team, his acceptance also changes the working atmosphere: the two professors can finally cooperate — arguing now about classification rather than existence — and the expedition's energy shifts from dispute to discovery.
+
+[CH5-Q20] ANSWER: The smoke is more mysterious than the dinosaurs because it changes the question from biology to intelligence. Living dinosaurs answer the question the expedition came to ask — did prehistoric life survive? — and the answer, however astonishing, fits the plan. Smoke cannot come from an animal: fire requires hands and minds, so it raises a new and stranger question — who is up here with them? The dinosaurs are the goal of the journey; the smoke is a passenger no one planned for, and the chapter ends on it precisely because it is the bigger mystery.
+
+[CH5-Q21] ANSWER: The footprint and the vanishing food create suspense by attacking the camp's sense of safety. Food disappearing means something enters their space while they are absent or asleep; the clicking call means it is near in the dark; the human-like footprint means it walks like a man. Nothing is ever seen — the reader, like the explorers, is left to imagine what watches from the trees. The dread comes from evidence without image: the more signs appear, the less anyone knows what to fear.
+
+[CH5-Q22] ANSWER: The chapter transforms the plateau from a hypothesis into a world. The men arrive as investigators of a claim; they end as inhabitants of an ecosystem: plant-eaters, a predator that tears them apart, breeding colonies of pterodactyls, and — hinted by the smoke — intelligent life as well. They learn that the plateau is not a museum of oddities but a working ancient world with its own food chain and possibly its own people. Their understanding matures from "Is Challenger right?" to "What is this place — and can we survive it?"
+
+[CH5-Q23] ANSWER: The descriptions of plants and insects announce the plateau's strangeness before any dinosaur appears. The plants are oversized and primitive in form; the insects are larger and more brilliantly colored than the modern world's; the very sounds of the place are unfamiliar. Such details show an environment where evolution took a different path — everything around the men is slightly too big, too bright or too ancient. The flora and the insects are the plateau's signature: the modern world has been left behind.
+
+[CH5-Q24] ANSWER: The iguanodons' physical features allow identification because they match the scientific descriptions exactly: enormous size, the great heavy body with large hind legs and smaller front limbs, the long tail, and the distinctive iguana-like teeth and beaked mouth for cropping plants. Both professors recognize the creature from the fossil record — Summerlee the sceptic can even classify it on sight. When a living animal walks out of the reference book, identification becomes proof.
+
+[CH5-Q25] ANSWER: The clues accumulate into a confident deduction. The explorers find an iguanodon — a plant-eater of enormous size — torn violently apart; the wounds carry deep tooth and claw marks far too large for any known modern animal; the kill is fresh and deliberate, the work of a predator that hunts big game. Combining the marks with the plateau's known population points to a large carnivorous dinosaur, possibly an allosaurus, hunting nearby — and Lord John quietly keeps his rifle ready from that moment.
+
+[CH5-Q26] ANSWER: The chapter layers its clues toward the final discovery. The human-like footprint says something walks upright; the food vanishing from camp says it is near and interested; the strange clicking call says it communicates; and at last Malone, from the treetop, sees smoke rising near the distant caves — and fire means hands. Together the clues argue that beings with intelligence, human or near-human, share the plateau with the dinosaurs. The chapter saves the strongest clue, the smoke, for last, so the reader arrives at the idea exactly as the explorers do.
+
+[CH5-Q27] ANSWER: The iguanodons reveal that the plateau is not a curiosity but a complete surviving world. A whole herd — feeding, moving, living naturally — means the plateau sustains a full ecosystem: plants, plant-eaters, and (as the torn carcass shows) predators. For science, the place is the discovery of the age: a window on millions of years of survival, which is exactly why the expedition matters. For the explorers, the herd also means the plateau's food chain is real — wonder and danger are the same system — and that they now live inside it.
+
+◆ Critical / JRE
+
+[CH5-Q28] ANSWER: The decision to continue studying while trapped is defensible but needs limits. The discoveries are the reason they are there at all: they are trapped regardless, escape at that moment depends on Zambo below, and careful observation — as Summerlee practices it — is itself a survival tool, since understanding the plateau's creatures is understanding its dangers. Still, survival must remain first: the men are wounded, their supplies come up a thin rope, and something watches them. The wisest course is the one the story itself suggests — explore in daylight near the camp, keep the fires and the watches, and treat escape as the standing priority that learning serves. Curiosity is right; recklessness is not.
+
+[CH5-Q29] ANSWER: They were not careful enough, though their caution was not zero. Approaching a place holding hundreds of large flying predators at all was a calculated risk they took for science, and they did begin quietly and try to withdraw; but they entered the rookery with no escape route agreed, no safe position chosen, and no plan for a massed attack — and it cost them wounds. The fair evaluation: understandable scientific curiosity, badly planned risk; observation from a distance would have given most of the knowledge at almost none of the cost. Their lesson — and the reader's — is that in the lost world, distance is safety.
+
+[CH5-Q30] ANSWER: Challenger's reaction — unsurprised, simply stating he knew he was right — reveals the pride that is both his engine and his blindness. Scientifically, his confidence is now fully earned: the iguanodons, the pterodactyls and the predator's marks all stand as witnesses, and he may be forgiven a moment of triumph after years of mockery. Yet the manner matters: there is no humility, no acknowledgment that doubt was reasonable before the evidence arrived, no generosity toward the man who tested him fairly and admitted his error honestly. The reaction confirms him as a great scientist and a difficult human being — vindication has not softened him.
+
+[CH5-Q31] ANSWER: Summerlee's change is not weakness but science working as it should. He did not abandon his standard — evidence — he followed it: for years the evidence was indirect, so he doubted; on the plateau the evidence walked in front of him, so he believed. A mind that changes when the facts change is the very definition of a good scientist, and his conversion is the more convincing because it was expensive — he had publicly staked his name on doubt. If anything, his enthusiasm afterward reveals the other side of his character: the sceptic was never a cynic, and the same honesty that made him doubt now makes him delight.
+
+[CH5-Q32] ANSWER: Malone's two roles strengthen each other, and the chapter shows both at work. As a reporter, he is the expedition's memory: he records what is seen, suffered and discovered — the account that will one day tell the world. As an explorer, he carries his share of danger and work: he stands watch, and his climb up the tall tree produces the expedition's most far-reaching discovery — the lake and the smoke. The reporter's curiosity pushes the explorer forward, and the explorer's courage gets the reporter his story. In Malone the two professions become one job: witness.
+
+[CH5-Q33] ANSWER: Summerlee's advice is sound science and sound sense. A theory built before evidence is imagination wearing a lab coat — and on the plateau, where every sign is strange, fear quickly manufactures explanations: the damaged camp becomes a monster, the footprint a demon. His method — observe, record, then conclude — is what keeps the expedition's claims trustworthy, which matters enormously since the world will only believe men who followed the rules of evidence. The chapter proves his point: the honest answer "we do not yet know what watches us" is more scientific — and more frightening — than any invented theory could be.
+
+[CH5-Q34] ANSWER: Yes, Summerlee is right — with one condition. His scientific interest after the attack is not denial of danger but the scientist's proper response: these are the first living pterodactyls ever observed, and studying them, from a safe distance, is exactly what the expedition exists to do; his curiosity is inseparable from his calling. The condition is proportion: interest must not become blindness — the creatures wounded two men, and calling them "remarkable" must never mean treating them as harmless. His position is right if it means study from distance; wrong if it ever means approaching again.
+
+[CH5-Q35] ANSWER: After the plateau's discoveries, the professors' arguments change their subject and their tone. Before, they fought over existence — whether the creatures were real at all — a quarrel of belief against doubt, bitter and personal. Now that the iguanodons and pterodactyls have settled the question, they argue over details — classification, names, how to categorize what both men have seen with their own eyes. The change is healthy science: disagreement survives, but it has become the rivalry of colleagues rather than the war of enemies. Evidence did what argument never could — it narrowed their dispute down to the truth.
+
+[CH5-Q36] ANSWER: After the unknown visitor, the explorers' measures should be exactly those the chapter shows them taking — and more. Strengthen the thorn barrier of Fort Challenger; keep two fires burning all night; organize turns on watch so no man sleeps alone; secure all food and ammunition inside the guarded space, since the loss of the stores proved them reachable; and never move alone, especially at night or far from camp. Added to these, they should record the signs systematically — footprints, calls, thefts — to build knowledge of the visitor, and keep the daily contact with Zambo alive as their one line to rescue. Defense, discipline and observation together: the camp is a small fort and must behave like one.
+
+[CH5-Q37] ANSWER: A group balances curiosity with safety by making safety the frame and curiosity the picture. Practically: observe from the greatest distance that still allows seeing; plan and agree an escape route before approaching anything dangerous; carry protective equipment and keep the practical man's judgment — Lord John's — part of every decision; set a limit in advance, the point at which the group withdraws whatever the scientific temptation; and never let the desire to know more outweigh the group's ability to retreat. The lost world teaches the rule chapter by chapter: curiosity opens the doors of discovery, but only discipline walks back through them.
+
+[CH5-Q38] ANSWER: Malone's report should record everything the world will need in order to believe the unbelievable. The animals: the iguanodons — numbers, appearance, behavior, the young; the pterodactyl rookery — the hundreds, the eggs and young, the attack. The evidence of danger: the torn plant-eater with its tooth and claw marks, and the carnivore it implies. The mysteries: the ransacked camp — crushed tins, a broken ammunition box, no footprints; the vanishing food, the clicking call, the broad human-like footprint. The geography: the central lake and the distant caves — and the smoke rising near them. And the human record: the wounds taken, the watches kept, the trap of the bridge, and Zambo's loyal lifeline below. A report so full that mockery can find nothing left to bite.
+
+[CH5-Q39] ANSWER: Before approaching smoke in an unknown forest, at least four possibilities should be considered. First, people — friendly or hostile, and in an unknown land there is no way to know which; the smoke Malone sees most likely means human or near-human inhabitants. Second, survivors or remnants of earlier expeditions — rescuers, or men connected with Maple White's time on the plateau. Third, natural causes — burning coal seams, volcanic activity, lightning fires — which need no intelligence behind them. Fourth, a trap: fire draws curiosity exactly as curiosity draws the unwary. The sensible procedure is Malone's: observe from a distance first, approach only with a plan, cover and agreement — and treat fire on a dinosaur plateau as the most dangerous information yet found.
+
+[CH5-Q40] MODEL ANSWER (JRE):
+Justification: Yes — to the explorers themselves, Challenger's central claim is now fully proved.
+Reason: The original dispute was whether prehistoric life survived on the plateau; the men have now observed that life directly, repeatedly and with their own eyes — the strongest form of proof science recognizes, which no honest witness can deny.
+Evidence: They watch living iguanodons in herds, so that Summerlee — the expedition's chief sceptic — openly admits Challenger was right; they find hundreds of pterodactyls breeding at the swamp; and they record the marks of a large carnivorous dinosaur on a torn plant-eater.
+
+[CH5-Q41] MODEL ANSWER (JRE):
+Justification: Scientific curiosity is shown as both a strength and a danger in this chapter — a strength only when controlled by caution.
+Reason: Curiosity is the engine of every discovery they make, but it is also the reason they walk into the pterodactyl rookery and get wounded: the same desire that produces knowledge produces risk, and the difference lies only in whether caution comes along.
+Evidence: Watching the iguanodons calmly wins them their greatest proof; approaching the pterodactyl swamp too closely brings a mass attack and wounds — Malone stabbed in the neck; investigating the damaged camp draws them toward an unknown watcher. Curiosity gained the knowledge; caution decides the cost.
+
+[CH5-Q42] MODEL ANSWER (JRE):
+Justification: Yes, Summerlee's change of opinion shows exactly what a good scientist is.
+Reason: A good scientist is not a man who never changes his mind, but one who changes it only when reliable evidence demands it — and Summerlee doubted while the evidence was indirect, then believed when it became direct, which is the method itself.
+Evidence: He doubts Challenger through every stage of the journey, calling the flying creature a large bird; but when he sees the living iguanodons he says plainly that Challenger was right; afterward he becomes an enthusiastic student of the very creatures he had refused to believe in.
+
+[CH5-Q43] MODEL ANSWER (JRE):
+Justification: Yes, Lord John's practical approach is essential to the success of the expedition — and at times to its survival.
+Reason: The scientists supply the knowledge, but knowledge does not load a rifle, choose a safe path, or cover a retreat; in the plateau's dangers it is the practical man's discipline that keeps the men alive to make their discoveries at all.
+Evidence: At the pterodactyl swamp his rifle lets the group escape the attacking flock — Malone is stabbed in the neck and Summerlee cut, but all survive; around the camp he studies tracks, chooses safe paths, keeps his weapon ready and organizes the watches and fires; his focus on survival balances the professors' focus on science.
+
+[CH5-Q44] MODEL ANSWER (JRE):
+Justification: Yes, the damaged camp suggests a greater danger than the explorers yet realize.
+Reason: Something entered their defended space, crushed metal food tins, broke open an ammunition box, and left without clear tracks — which means it is strong, clever and capable of approaching them unseen; not knowing what it is, while knowing it is near, is itself the danger.
+Evidence: The crushed tins and the broken ammunition box; the absence of clear footprints, suggesting the creature may have come through the trees; and the following signs — vanishing food, the strange clicking call, and the broad human-like footprint — all pointing to an intelligent watcher still unaccounted for.
+
+[CH5-Q45] MODEL ANSWER (JRE):
+Justification: Yes, the discovery of smoke changes the meaning of the expedition from a scientific quest into a matter of first contact.
+Reason: Until this moment the expedition has one question — do prehistoric animals survive here? The smoke raises a second, larger one: is there intelligent life on the plateau? — a question about beings who can think, make fire, and perhaps threaten or befriend the explorers.
+Evidence: Malone, from the treetop, sees a thin line of smoke rising near the distant caves and understands that fire usually means people; combined with the human-like footprint and the clicking calls, he concludes that the lost world may contain people or man-like creatures. The explorers are no longer alone.
+
+[CH5-Q46] MODEL ANSWER (JRE):
+Justification: Yes, the expedition has become more dangerous after the discovery of the pterodactyls.
+Reason: The rookery proves the plateau holds creatures that are aggressive, numerous and quick to attack intruders — and that the explorers' mere presence can trigger a mass assault; worse, the wounds and the ransacked camp show the men are being tested by more than beasts.
+Evidence: At the swamp the flock attacks on sight, wounding Malone (stabbed in the neck) and cutting Summerlee's forehead; soon afterward the camp is found ransacked by something strong and unseen. Knowledge of the pterodactyls came at the price of blood — and the unknown watcher remains.
+
+[CH5-Q47] MODEL ANSWER (JRE):
+Justification: Yes, Challenger's confidence is now justified by the evidence he finds — the claim has moved from assertion to observation.
+Reason: His confidence was always attacked as vanity; but the plateau has now delivered precisely the proof his critics demanded — living animals observed directly — and every discovery of the chapter confirms rather than corrects his theory.
+Evidence: The living iguanodons, which convert Summerlee, his greatest sceptic; the pterodactyl rookery with hundreds of breeding creatures; and the marks of a carnivorous dinosaur on the torn plant-eater. When the most qualified doubter in England admits the theory is right, the confidence that predicted it is justified.
+
+[CH5-Q48] MODEL ANSWER (JRE):
+Justification: Lord John's behavior shows that courage means controlling risks, not merely taking them.
+Reason: He never avoids danger — he faces it as part of the expedition's work — but he always manages it: choosing when to act, keeping means of protection ready, and withdrawing the group when the odds become impossible; courage as discipline rather than recklessness.
+Evidence: At the pterodactyl swamp he does not stand and fight hundreds of creatures — he covers the retreat with his rifle and gets the men out alive; at the camp he organizes watches, keeps his weapon ready and studies the signs before moving; at the bridge he crossed last and calm. Every act is a risk governed, not a risk embraced.
+
+[CH5-Q49] MODEL ANSWER (JRE):
+Justification: Scientific discovery and survival danger work together in this chapter to build one picture: a lost world that must be understood because it must be survived.
+Reason: Every danger the men face is also information — the attack teaches them the pterodactyls' numbers and temper; the torn plant-eater teaches them a predator hunts nearby; the watcher's signs teach them intelligence lives on the plateau; and every discovery they make changes what they must do to stay alive.
+Evidence: The iguanodons prove the theory and simultaneously reveal the plateau's food chain; the pterodactyl swarm gives knowledge and wounds in the same minutes; the smoke by the caves is both the chapter's greatest discovery and its greatest new threat. The lost world is one place — its wonder and its danger are the same thing seen from different sides.
+
+[CH5-Q50] MODEL ANSWER (JRE):
+Justification: Lord John acts more responsibly than the two professors in responding to the pterodactyl attack.
+Reason: Responsibility in danger means protecting people first; the professors respond as scientists — absorbed in the spectacle even while it wounds them — while John responds as the group's guardian: assessing, covering, retreating, and securing the camp afterward.
+Evidence: When the flock attacks, it is Lord John's rifle that lets the wounded group escape beneath the trees; afterward he studies the torn plant-eater's signs quietly, keeps his weapon ready, and organizes the fires and the watches that guard the camp. The professors' knowledge is priceless — but in the moment of fangs, the responsible man is the one holding the rifle.
+
+◆ Quotes / MCQ / T-F
+
+(No quote, MCQ, or True/False items for this chapter in the questions file.)
+
+==========================================================================================
+FILE SUMMARY
+- Total model answers: 273 — CH1: 54 | CH2: 55 | CH3: 52 | CH4: 62 | CH5: 50
+- Numbering matches Novel_Q.txt exactly: every [CHx-Qn] question ID there has one corresponding
+  answer here (verified 1:1), in the same chapter/section order (Comprehension → Analysis →
+  Critical / JRE → Quotes).
+- Sources of answers: model-answer lines from the GEM, El-Moaser and Giants supplements were
+  reused/adapted where available; the remainder were written fresh from the chapter summaries
+  and the story of Chapters 1-5.
+END OF NOVEL MODEL ANSWERS FILE

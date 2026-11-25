@@ -1,0 +1,420 @@
+==========================================================================================
+THE LOST WORLD — ARTHUR CONAN DOYLE — NOVEL QUESTION FILE (CHAPTERS 1-5)
+Egyptian Baccalaureate English — Year 2, Term 1 (2026-2027)
+==========================================================================================
+Sources: GEM Novel Supplement | El-Moaser Novel Supplement | Giants (simplified novel section).
+The first term covers Chapters 1-5 only. Every question states its source book(s); identical
+items across books are MERGED (combined labels); no question idea repeats more than twice.
+Question types: Comprehension, Analysis, Critical, JRE (Justify-Reason-Evidence), Quotes.
+ID legend: [CHx-Qn] = question n of chapter x.
+Model answers: see the companion file The_Lost_World_Ch1-5_Answers.txt (identical numbering).
+CONTENTS: Ch1: 54, Ch2: 55, Ch3: 52, Ch4: 62, Ch5: 50 — total 273 questions.
+==========================================================================================
+
+THE LOST WORLD — ARTHUR CONAN DOYLE (Chapters 1-5)
+==========================================================================================
+Egyptian Baccalaureate English — Year 2, Term 1 (2026-2027) | Sources: GEM, El-Moaser, Giants
+
+NOTES: Type tags — (Comprehension), (Analysis), (Critical), (JRE), (Quote). The three source supplements
+contain no MCQ or True/False exercises for the novel (all novel items are open-ended), so no (MCQ)/(T/F) items
+appear in this file; quote-based items are filed under "Quotes". Source labels show which book(s) asked each
+question (GEM = GEM novel supplement; El-Moaser = El-Moaser novel supplement; Giants = Giants novel section);
+a combined label means the books asked the same question and it has been merged into one entry. Model answers
+are NOT included here — they are compiled in the separate companion answers file, using this numbering.
+
+--- THE NOVEL AT A GLANCE ---
+- Writer: Arthur Conan Doyle (1859-1930), famous British writer and doctor; creator of Sherlock Holmes; also wrote "The Lost World" and many other stories and novels.
+- Setting — Place: begins in London, England (the Daily Gazette where Malone works, the Savage Club, Professor Challenger's large house in Kensington), then moves to South America — the Amazon, and the Lost World plateau ("Maple White Land").
+- Setting — Time: the early 20th century. Atmosphere: adventurous, mysterious, dangerous and exciting.
+- Plot: Edward Malone joins a dangerous expedition to South America with Professor Challenger and other explorers to discover prehistoric animals; they face dangers and mysteries in the Lost World and try to survive and find the truth.
+- Main characters:
+  * Professor Challenger — brilliant, confident, aggressive zoologist who claims prehistoric animals still exist and leads the expedition.
+  * Edward Malone — young, ambitious Daily Gazette reporter who seeks adventure to prove himself and give his life purpose.
+  * Professor Summerlee — intelligent, serious, sceptical scientist who values evidence and accepts the truth only after seeing it himself.
+  * Lord John Roxton — brave, experienced explorer, sportsman and hunter, familiar with the Amazon, who protects the team.
+- Secondary characters: Gladys Hungerton (the woman Malone loves); Mr McArdle (experienced news editor); Tarp Henry (Malone's friend at the Savage Club); Mrs Challenger (kind wife who warns Malone about her husband's temper); Austin (quiet servant); Maple White (dying American explorer whose sketchbook starts it all); Zambo (strong, loyal helper below the cliffs); Gomez (the betrayer); Manuel and the Indigenous boatmen; Pedro Lopez (mentioned — Gomez's brother, dead leader of an unfair rubber-trading group).
+- Main themes: courage and proving oneself; respect evidence before accepting extraordinary ideas; curiosity and the desire for discovery; determination; do not judge people before knowing the truth; bravery in the face of danger; teamwork overcomes difficult challenges.
+
+--- CHAPTER 1: A DREAM OF ADVENTURE ---
+Summary:
+- Young reporter Edward Malone, longing for adventure and a greater purpose, proposes to Gladys Hungerton; she refuses, saying she could only love a brave man who has faced danger, travelled into the unknown, and proved his courage.
+- Malone asks his editor Mr. McArdle for a dangerous assignment; McArdle points him to Professor Challenger, recently back from South America with a strange story of unknown animals and refusing to give clear details — mistaken or lying, "find out which."
+- With Tarp Henry's help, Malone writes a trick letter posing as an admiring student and quoting a sentence from Challenger's own scientific paper; Challenger replies and grants an appointment.
+- At Challenger's large house in Kensington, Mrs. Challenger warns Malone about her husband's famous temper.
+- A deep roar comes from behind the closed study door, and Malone enters to face the broad, black-bearded professor behind a desk covered with books, maps and fossils — his adventure has truly begun.
+
+◆ Comprehension
+
+[CH1-Q1] (Comprehension — Source: GEM + El-Moaser + Giants) Why does Malone ask Mr. McArdle to give him a dangerous assignment?
+[CH1-Q2] (Comprehension — Source: El-Moaser) What kind of challenge did Malone want?
+[CH1-Q3] (Comprehension — Source: El-Moaser) Who was Mr McArdle?
+[CH1-Q4] (Comprehension — Source: El-Moaser) Describe Malone's life at the beginning of the chapter.
+[CH1-Q5] (Comprehension — Source: GEM + El-Moaser) Why does Gladys refuse Malone's marriage proposal, and what does she say she wants in a man?
+[CH1-Q6] (Comprehension — Source: El-Moaser) What does Gladys mean by true courage?
+[CH1-Q7] (Comprehension — Source: GEM + El-Moaser) Explain what Mr. McArdle tells Malone about Professor Challenger and his unusual story.
+[CH1-Q8] (Comprehension — Source: GEM) Why is Professor Challenger famous, and why are many people interested in his story about South America?
+[CH1-Q9] (Comprehension — Source: GEM) Explain why Professor Challenger has a bad reputation among scientists and journalists.
+[CH1-Q10] (Comprehension — Source: GEM) Why does Challenger refuse to reveal the exact location of his discoveries in South America?
+[CH1-Q11] (Comprehension — Source: GEM) Why does Tarp Henry laugh when Malone tells him his plan?
+[CH1-Q12] (Comprehension — Source: GEM + El-Moaser + Giants) Explain why Malone writes to Professor Challenger as if he understands Challenger's scientific work.
+[CH1-Q13] (Comprehension — Source: El-Moaser + Giants) Why did Malone decide not to introduce himself as a journalist to Challenger?
+[CH1-Q14] (Comprehension — Source: GEM) How does Malone use Challenger's scientific paper to make his false identity as a student more believable?
+[CH1-Q15] (Comprehension — Source: GEM) Explain how Challenger responds to Malone's letter and what his response allows Malone to do.
+[CH1-Q16] (Comprehension — Source: El-Moaser) Where did Professor Challenger live?
+[CH1-Q17] (Comprehension — Source: GEM + El-Moaser) Why does Mrs. Challenger warn Malone before he enters her husband's study?
+
+◆ Analysis
+
+[CH1-Q18] (Analysis — Source: GEM + El-Moaser + Giants) Explain how Gladys's idea of courage changes Malone's plans for his future.
+[CH1-Q19] (Analysis — Source: GEM) Analyse why Malone suddenly feels that London is too safe and that he needs a new challenge.
+[CH1-Q20] (Analysis — Source: GEM) Describe Malone's personality as shown through his conversation with Gladys and his visit to McArdle.
+[CH1-Q21] (Analysis — Source: El-Moaser) Compare Malone's first idea of courage with Gladys's idea of courage.
+[CH1-Q22] (Analysis — Source: GEM + El-Moaser + Giants) Analyze what Mr. McArdle's reaction to Malone's request reveals about Malone's attitude to danger.
+[CH1-Q23] (Analysis — Source: GEM) Analyse what Mr. McArdle wants Malone to discover about Challenger's story and why this is an important task.
+[CH1-Q24] (Analysis — Source: GEM + El-Moaser) Analyze the role Tarp Henry plays in helping Malone gain access to Professor Challenger.
+[CH1-Q25] (Analysis — Source: GEM + El-Moaser + Giants) How do Mrs. Challenger's warning and Challenger's first appearance build suspense at the end of the chapter?
+[CH1-Q26] (Analysis — Source: GEM) What does Mrs. Challenger's behavior in the hallway suggest about her relationship with her husband?
+[CH1-Q27] (Analysis — Source: GEM) Analyze how the setting of Challenger's study reflects his character.
+[CH1-Q28] (Analysis — Source: GEM) Analyse what Challenger's first words to Malone reveal about his personality and attitude toward him.
+[CH1-Q29] (Analysis — Source: Giants) Analyze whether Malone's desire to prove his courage affects his judgment.
+
+◆ Critical / JRE
+
+[CH1-Q30] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Malone's decision to use deception in order to get an interview with Challenger. Was his method acceptable? Give reasons.
+[CH1-Q31] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Malone's desire for adventure at this stage. Does it show maturity, impulsiveness, or both? Explain.
+[CH1-Q32] (Critical — Source: GEM + El-Moaser + Giants) Evaluate McArdle's role as an editor. Is he helpful to Malone, or is he simply testing him? Why?
+[CH1-Q33] (Critical — Source: El-Moaser + Giants) Evaluate Malone's decision to leave his safe life in London and search for adventure. Do you think it was wise? Explain.
+[CH1-Q34] (Critical — Source: Giants) Evaluate whether Malone is prepared for the adventure he wants. Justify your answer.
+[CH1-Q35] (Critical — Source: El-Moaser) Is Gladys's definition of courage convincing? Why?
+[CH1-Q36] (Critical — Source: El-Moaser) Do you think Malone is satisfied with his life at the beginning of the chapter? Why/Why not?
+[CH1-Q37] (Critical — Source: El-Moaser) Do you think Challenger deserves his reputation for being difficult? Give reasons for your judgment.
+[CH1-Q38] (Critical — Source: El-Moaser) How reliable do you think Henry's description of Challenger is? Give evidence from the chapter.
+[CH1-Q39] (Critical — Source: Giants) Evaluate Challenger's personality based on his first meeting with Malone.
+[CH1-Q40] (Critical — Source: El-Moaser) If you were Malone, how could you prepare honestly for an interview with a difficult scientist?
+[CH1-Q41] (Critical — Source: El-Moaser) Which matters more for a reporter: obtaining a story or behaving honestly?
+[CH1-Q42] (JRE — Source: GEM + El-Moaser + Giants) Is Gladys a positive influence on Malone?
+[CH1-Q43] (JRE — Source: GEM + El-Moaser + Giants) Is Malone truly ready for the kind of adventure he is seeking by the end of this chapter?
+[CH1-Q44] (JRE — Source: GEM) Is Malone a determined person?
+[CH1-Q45] (JRE — Source: GEM + El-Moaser + Giants) Was Malone right to lie about his identity in order to meet Challenger?
+[CH1-Q46] (JRE — Source: GEM + El-Moaser + Giants) Is Mr. McArdle helpful to Malone?
+[CH1-Q47] (JRE — Source: GEM) Does Malone show good problem-solving skills?
+[CH1-Q48] (JRE — Source: GEM) Is Tarp Henry an important part of Malone's plan?
+[CH1-Q49] (JRE — Source: GEM) Is Malone's decision to seek adventure a good response to Gladys's rejection?
+[CH1-Q50] (JRE — Source: GEM + El-Moaser) By the end of the chapter, do you think Malone has shown true courage or is he mainly trying to impress Gladys?
+[CH1-Q51] (JRE — Source: GEM) Does the chapter show that Malone's adventure has only just begun?
+[CH1-Q52] (JRE — Source: GEM) Does Gladys want Malone to become a different person, or does she simply want him to show his true character?
+[CH1-Q53] (JRE — Source: El-Moaser) If Malone had introduced himself openly as a reporter at the door, what would be the most suitable response based on what happens with Challenger?
+
+◆ Quotes / MCQ / T-F
+
+[CH1-Q54] (Quote — Source: GEM) Evaluate the ending line, "I had entered looking for adventure. I had found it sooner than I expected." What does it suggest?
+
+--- CHAPTER 2: PROFESSOR CHALLENGER'S SECRET ---
+Summary:
+- Challenger's technical questions quickly expose Malone's ignorance; Malone admits he is a Daily Gazette reporter; furious, Challenger throws him out, and the two fall fighting together onto the front steps before a policeman and neighbours.
+- Malone refuses to press charges, admitting the fault was partly his own; Challenger's anger turns into something like respect, and he invites Malone back inside.
+- After Malone promises not to publish anything without permission, Challenger shows Maple White's worn sketchbook (red cliffs, an isolated rock tower, a stegosaurus-like animal), a damaged photograph, and a pterodactyl wing bone.
+- Challenger explains his theory that the high cliffs of an isolated plateau cut it off from the rest of the world, so prehistoric animals could have survived there; he refuses to reveal the exact location because people mocked him and accused him of faking evidence.
+- Malone moves from scepticism to growing belief; Challenger tells him of a public lecture at the Zoological Institute the next evening, and Malone leaves imagining a hidden world beyond the Atlantic.
+
+◆ Comprehension
+
+[CH2-Q1] (Comprehension — Source: GEM) Why did Malone hesitate when Challenger asked him about "the recent evidence"?
+[CH2-Q2] (Comprehension — Source: Giants) Why does Malone admit that he knows very little about the scientific subject?
+[CH2-Q3] (Comprehension — Source: El-Moaser) Who was Malone really?
+[CH2-Q4] (Comprehension — Source: GEM + El-Moaser) Explain why Challenger became furious when he learned Malone was a journalist.
+[CH2-Q5] (Comprehension — Source: GEM) Describe what happened during the struggle between Challenger and Malone, from the study to the front steps.
+[CH2-Q6] (Comprehension — Source: GEM) Why did Malone decide not to press charges against Challenger, even though he was injured?
+[CH2-Q7] (Comprehension — Source: GEM + El-Moaser + Giants) Why does Challenger invite Malone back into the house after their fight?
+[CH2-Q8] (Comprehension — Source: GEM) Why did the policeman close his notebook without taking further action after the fight?
+[CH2-Q9] (Comprehension — Source: GEM + El-Moaser + Giants) Explain Challenger's theory about how prehistoric animals could survive on the isolated plateau.
+[CH2-Q10] (Comprehension — Source: GEM + El-Moaser) Explain what condition Challenger set before showing Malone the sketchbook.
+[CH2-Q11] (Comprehension — Source: El-Moaser) What did one picture in the sketchbook show?
+[CH2-Q12] (Comprehension — Source: GEM) Explain how Challenger used the reference book on prehistoric animals to support his claim about the sketchbook drawing.
+[CH2-Q13] (Comprehension — Source: GEM + El-Moaser) Explain why most of Challenger's photographic evidence was lost, and how this affected the strength of his case.
+[CH2-Q14] (Comprehension — Source: El-Moaser) Why does Challenger refuse to reveal the exact location of the plateau?
+[CH2-Q15] (Comprehension — Source: El-Moaser) Why does Malone begin to believe in Challenger's story?
+[CH2-Q16] (Comprehension — Source: El-Moaser) Explain: Why does Challenger use a magnifying glass to examine the photograph? How does it help him support his argument?
+
+◆ Analysis
+
+[CH2-Q17] (Analysis — Source: GEM + El-Moaser + Giants) Explain how Maple White's sketchbook, the damaged photograph, and the wing fragment support Challenger's claim.
+[CH2-Q18] (Analysis — Source: GEM + El-Moaser + Giants) Analyze how Challenger's difficult personality may make people doubt a story that may actually be true.
+[CH2-Q19] (Analysis — Source: GEM + El-Moaser + Giants) Analyze how Malone's attitude changes from scepticism to growing belief during the chapter.
+[CH2-Q20] (Analysis — Source: GEM + El-Moaser + Giants) Why are the different pieces of evidence more convincing together than any one piece would be alone?
+[CH2-Q21] (Analysis — Source: GEM) Analyze why Malone's decision to lie about his identity to gain entry was risky, given how the meeting turned out.
+[CH2-Q22] (Analysis — Source: El-Moaser + Giants) Explain: Why does Malone refuse to press charges against Challenger? What does this reveal about Malone's character?
+[CH2-Q23] (Analysis — Source: El-Moaser) Analyze: How does Challenger's attitude towards Malone change after Malone refuses to press charges? What causes this change?
+[CH2-Q24] (Analysis — Source: GEM) Analyze how the newspapers' portrayal of Challenger before the meeting shaped Malone's expectations of him.
+[CH2-Q25] (Analysis — Source: GEM) Analyze the contrast between Challenger's public failure in London and his private confidence when speaking to Malone.
+[CH2-Q26] (Analysis — Source: GEM + Giants) Why might Challenger have decided to trust Malone with his secret rather than remain silent, as he had done since his public humiliation?
+[CH2-Q27] (Analysis — Source: GEM) Analyze why people in London did not believe Challenger's story at first.
+[CH2-Q28] (Analysis — Source: GEM) Analyze why the policeman was surprised that Malone did not want to make a complaint.
+[CH2-Q29] (Analysis — Source: El-Moaser) Analyze: How does the contrast between the early pages and the later drawings in Maple White's sketchbook create mystery?
+[CH2-Q30] (Analysis — Source: El-Moaser) Explain: What does the unusual animal in Maple White's drawing suggest about what he may have discovered?
+[CH2-Q31] (Analysis — Source: El-Moaser) Analyze: How does Challenger's journey along Maple White's route strengthen his belief that the sketchbook is truthful?
+[CH2-Q32] (Analysis — Source: Giants) Why do you think Challenger showed Malone the sketchbook?
+[CH2-Q33] (Analysis — Source: Giants) Explain why the pterodactyl evidence is especially important to Challenger's theory.
+[CH2-Q34] (Analysis — Source: Giants) Explain how the ending of the chapter creates interest in the next part of the story.
+
+◆ Critical / JRE
+
+[CH2-Q35] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Challenger's decision to keep the exact location of the plateau secret. Was he justified? Give reasons.
+[CH2-Q36] (Critical — Source: GEM) Evaluate the role of the magnifying glass scene in changing Malone's perception of the photograph.
+[CH2-Q37] (Critical — Source: GEM) Evaluate Malone's choice to attend Challenger's suggested lecture at the Zoological Institute. What does this decision suggest about his transformation as a character?
+[CH2-Q38] (Critical — Source: GEM) Evaluate how the chapter's ending, with Malone reflecting on the "unreal" London street, prepares the reader for the adventure to come.
+[CH2-Q39] (Critical — Source: GEM) In your opinion, what is the most convincing piece of evidence presented in the chapter, and why?
+[CH2-Q40] (Critical — Source: Giants) Evaluate the effect of the newspapers' criticism on Challenger's actions.
+[CH2-Q41] (Critical — Source: El-Moaser) Evaluate: How important is Maple White to the development of Challenger's discovery? Explain your answer.
+[CH2-Q42] (Critical — Source: El-Moaser) Evaluate: How convincing is Challenger's theory about the plateau? Support your evaluation with evidence from the chapter.
+[CH2-Q43] (Critical — Source: Giants) Evaluate Malone's decision to keep his promise not to publish Challenger's discovery without permission.
+[CH2-Q44] (Critical — Source: Giants) Evaluate Challenger's decision to share his discovery with Malone. Was it a good decision? Give a reason.
+[CH2-Q45] (JRE — Source: GEM + El-Moaser + Giants) Is Malone justified in believing Challenger by the end of the chapter?
+[CH2-Q46] (JRE — Source: GEM + El-Moaser + Giants) Can Challenger be considered a trustworthy scientist despite his rude and aggressive behavior?
+[CH2-Q47] (JRE — Source: GEM + El-Moaser) Do you think Malone's decision to trust Challenger by the end of the chapter is based on solid evidence or on Challenger's strong personality?
+[CH2-Q48] (JRE — Source: GEM) Was Challenger justified in physically confronting Malone once he discovered the deception?
+[CH2-Q49] (JRE — Source: GEM) Did Malone deserve Challenger's trust and respect after their fight?
+[CH2-Q50] (JRE — Source: GEM + El-Moaser) Was Challenger right to stay silent in London instead of trying to convince his critics with patience?
+[CH2-Q51] (JRE — Source: GEM) Should Malone have left the house immediately after Challenger told him to get out?
+[CH2-Q52] (JRE — Source: GEM) Was Maple White's sketchbook enough on its own to prove Challenger's story?
+[CH2-Q53] (JRE — Source: GEM) Did Malone's job as a journalist help or hurt his search for the truth in this chapter?
+[CH2-Q54] (JRE — Source: El-Moaser) How do Challenger's field journey and Maple White's sketchbook work together to produce the case for a lost plateau?
+
+◆ Quotes / MCQ / T-F
+
+[CH2-Q55] (Quote — Source: GEM + Giants) Analyze the significance of the phrase "truth does not become false because fools refuse to accept it." What does it reveal about Challenger's character?
+
+--- CHAPTER 3: THE EXPEDITION IS CHOSEN ---
+Summary:
+- At a crowded public lecture at the Zoological Institute, Challenger angrily defends the possibility that prehistoric creatures survive; Professor Summerlee challenges him to provide testable proof and volunteers to test it himself.
+- Malone and the famous explorer Lord John Roxton volunteer as younger companions; Challenger proposes Summerlee, Roxton and Malone as the investigating party, and the motion is accepted.
+- Roxton tells Malone about his feud with Pedro Lopez's unfair rubber-trading group, and tests Malone's shooting, climbing, swimming and calm under pressure; the team prepares and sails to Brazil, hiring Zambo, Gomez, Manuel and Indigenous boatmen.
+- Malone visits Gladys before leaving but does not say he is traveling for her.
+- Challenger's sealed instructions, to be opened at exactly noon on 15 July in Manaos, contain only a blank sheet of paper — Challenger has secretly traveled to Brazil to guide the expedition himself, and the four men set off for the unknown.
+
+◆ Comprehension
+
+[CH3-Q1] (Comprehension — Source: GEM) Why does Professor Challenger believe that the evidence of prehistoric creatures should be taken seriously?
+[CH3-Q2] (Comprehension — Source: GEM) Explain why Professor Summerlee challenges Challenger during the lecture.
+[CH3-Q3] (Comprehension — Source: GEM + El-Moaser + Giants) Explain why Professor Summerlee agrees to test Challenger's claims in person.
+[CH3-Q4] (Comprehension — Source: GEM + El-Moaser + Giants) How do Malone and Lord John Roxton become members of the expedition?
+[CH3-Q5] (Comprehension — Source: GEM + Giants) How does Malone's decision to volunteer change his future?
+[CH3-Q6] (Comprehension — Source: GEM + Giants) What qualities of Lord John Roxton make him suitable for the expedition?
+[CH3-Q7] (Comprehension — Source: El-Moaser) What was Lord John Roxton famous for?
+[CH3-Q8] (Comprehension — Source: El-Moaser + Giants) Why does Lord John ask Malone about shooting, climbing, swimming, and staying calm?
+[CH3-Q9] (Comprehension — Source: GEM + Giants) Why does Lord John choose the members of the expedition carefully?
+[CH3-Q10] (Comprehension — Source: GEM) Why does Malone respect Professor Summerlee even though Summerlee doubts Challenger?
+[CH3-Q11] (Comprehension — Source: GEM + El-Moaser + Giants) Explain why Challenger sends a blank sheet of paper and then appears in Manaos himself.
+[CH3-Q12] (Comprehension — Source: El-Moaser) What was inside the envelope?
+[CH3-Q13] (Comprehension — Source: GEM) Explain why the team keeps Challenger's instructions sealed until they reach Manaos.
+[CH3-Q14] (Comprehension — Source: GEM) Why does Challenger think Summerlee needs younger companions for the expedition?
+[CH3-Q15] (Comprehension — Source: GEM) Explain how Roxton's experience with Pedro Lopez could help the expedition.
+[CH3-Q16] (Comprehension — Source: El-Moaser) Who led the powerful rubber-trading group?
+[CH3-Q17] (Comprehension — Source: El-Moaser) Why does Malone not tell Gladys that he is traveling for her?
+[CH3-Q18] (Comprehension — Source: GEM) Why does Challenger believe that his personal guidance is more reliable than written directions?
+
+◆ Analysis
+
+[CH3-Q19] (Analysis — Source: GEM + El-Moaser + Giants) Analyze the contrast between Challenger and Summerlee. How might their different personalities affect the expedition?
+[CH3-Q20] (Analysis — Source: GEM + El-Moaser + Giants) How do the four main members of the expedition bring different strengths to the team?
+[CH3-Q21] (Analysis — Source: GEM + El-Moaser + Giants) Analyze how Malone's final conversation with Gladys before leaving England shows a change in his motivation.
+[CH3-Q22] (Analysis — Source: GEM + El-Moaser + Giants) Analyze the importance of Zambo, Gomez, Manuel, and the Indigenous boatmen to the expedition.
+[CH3-Q23] (Analysis — Source: El-Moaser + Giants) How does Lord John's past with Pedro Lopez affect the expedition?
+[CH3-Q24] (Analysis — Source: El-Moaser + Giants) Why does the blank paper create surprise before Challenger enters the room?
+[CH3-Q25] (Analysis — Source: Giants) Explain why Summerlee's skepticism can be useful during the expedition.
+[CH3-Q26] (Analysis — Source: GEM) What does the expedition's journey to an unexplored part of the Amazon suggest about the dangers they may face?
+[CH3-Q27] (Analysis — Source: GEM) How does the preparation for the expedition increase the reader's curiosity about the lost world?
+[CH3-Q28] (Analysis — Source: El-Moaser) Analyze Challenger's decision to interrupt the lecture. What does this reveal about his personality?
+[CH3-Q29] (Analysis — Source: El-Moaser) Analyze Challenger's reasons for forming an investigating party. Why is such a party important to him?
+[CH3-Q30] (Analysis — Source: El-Moaser) Analyze how Lord John's previous experience makes him a suitable member of the expedition.
+[CH3-Q31] (Analysis — Source: El-Moaser) Analyze Challenger's decision to make the group wait until noon before opening the envelope. What does this show about him?
+
+◆ Critical / JRE
+
+[CH3-Q32] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Malone's decision to volunteer publicly for the journey. Was it courageous, impulsive, or both?
+[CH3-Q33] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Challenger's decision to hide his plan to join the expedition. Was his secrecy sensible or unnecessary?
+[CH3-Q34] (Critical — Source: GEM) Evaluate Lord John Roxton's role in the expedition. Why might the team depend on him in difficult situations?
+[CH3-Q35] (Critical — Source: Giants) Evaluate Challenger's reason for saying that his memory is more reliable than written directions.
+[CH3-Q36] (Critical — Source: El-Moaser) How can a group benefit from including members with different abilities?
+[CH3-Q37] (Critical — Source: El-Moaser) How can a person show courage without acting only for praise?
+[CH3-Q38] (Critical — Source: El-Moaser) How should an expedition leader protect sensitive information about a valuable place?
+[CH3-Q39] (Critical — Source: El-Moaser) Was Lord John right to ask Malone about his practical skills?
+[CH3-Q40] (Critical — Source: El-Moaser) Evaluate Summerlee's behavior during the preparations. Does he seem suitable for such a dangerous expedition?
+[CH3-Q41] (JRE — Source: GEM + El-Moaser + Giants) Was forming a team with such different personalities a wise decision?
+[CH3-Q42] (JRE — Source: GEM + El-Moaser + Giants) Is Summerlee's scepticism valuable to the expedition?
+[CH3-Q43] (JRE — Source: GEM + El-Moaser + Giants) Is Lord John Roxton a suitable leader for the expedition?
+[CH3-Q44] (JRE — Source: GEM + El-Moaser) Was Challenger justified in secretly traveling to Brazil instead of sending written instructions?
+[CH3-Q45] (JRE — Source: GEM) Is Malone motivated by true courage when he decides to join the expedition?
+[CH3-Q46] (JRE — Source: GEM) Does the chapter show that teamwork is more important than individual ability?
+[CH3-Q47] (JRE — Source: GEM) Was Summerlee's decision to continue with the expedition despite his disagreement with Challenger admirable?
+[CH3-Q48] (JRE — Source: GEM) Was the audience right to laugh at the idea of prehistoric creatures surviving?
+[CH3-Q49] (JRE — Source: El-Moaser) A newcomer faces a team whose members disagree strongly about the truth of a claim. Which principle from the novel should guide that person?
+[CH3-Q50] (JRE — Source: El-Moaser) How do Summerlee's skepticism and Challenger's certainty work together to produce the scientific purpose of the expedition?
+[CH3-Q51] (JRE — Source: El-Moaser) What is the strongest cause of the team's practical strength: the famous status of its members or their complementary skills and local support?
+
+◆ Quotes / MCQ / T-F
+
+[CH3-Q52] (Quote — Source: Giants) Analyze what Malone's words, "I can learn what I do not know," reveal about his attitude.
+
+--- CHAPTER 4: INTO THE UNKNOWN ---
+Summary:
+- The steam launch Esmeralda is sent back as the Amazon tributary narrows; the group continues by canoe, and later on foot carrying supplies, while Challenger makes all promise never to publish enough information for strangers to locate the plateau.
+- On the ninth day they sight a huge flying creature — Challenger: "A pterodactyl!"; Summerlee: "a large bird"; they then reach the great red cliffs exactly as Maple White drew them, with the separate rock tower topped by a tree.
+- Finding no path up the sheer cliff, they climb the rock tower, cut down its tree so it falls across the chasm as a bridge, and cross one by one — Challenger first, Lord John last — onto the plateau.
+- Gomez destroys the bridge in revenge for his brother Pedro Lopez, killed years earlier by Lord John, trapping them on the plateau with no way back; Lord John fires at Gomez.
+- Loyal Zambo stays below, passing food and ammunition across by a thin rope; night falls with the four explorers trapped on Maple White Land.
+
+◆ Comprehension
+
+[CH4-Q1] (Comprehension — Source: GEM + El-Moaser + Giants) Explain why the explorers leave the Esmeralda and continue by canoe and later on foot.
+[CH4-Q2] (Comprehension — Source: GEM + El-Moaser + Giants) Why does Challenger refuse to reveal the exact route to the plateau, even to his own companions and future readers?
+[CH4-Q3] (Comprehension — Source: GEM + El-Moaser) Describe the disagreement between Challenger and Summerlee during the overland trek, and how Lord John responds to it.
+[CH4-Q4] (Comprehension — Source: GEM + El-Moaser) What evidence first convinces the group that Maple White's account might be true, and how does Summerlee react to it?
+[CH4-Q5] (Comprehension — Source: GEM + El-Moaser + Giants) Explain how the explorers use the tree on the rock tower to reach the plateau.
+[CH4-Q6] (Comprehension — Source: GEM + Giants) Why does Gomez destroy the tree bridge after the explorers cross it?
+[CH4-Q7] (Comprehension — Source: GEM) Explain the sequence of events that leads to the explorers being trapped on the plateau.
+[CH4-Q8] (Comprehension — Source: GEM) Why does Challenger insist on crossing the tree bridge first?
+[CH4-Q9] (Comprehension — Source: GEM) How does the behavior of the wildlife change as the group travels farther into the region?
+[CH4-Q10] (Comprehension — Source: GEM) Why do the two local guides seem reluctant to join the final stage of the journey?
+[CH4-Q11] (Comprehension — Source: GEM) Why does the group struggle to find a way onto the plateau before discovering the rock tower?
+[CH4-Q12] (Comprehension — Source: GEM) What is the immediate consequence of Lord John shooting at Gomez?
+[CH4-Q13] (Comprehension — Source: GEM) What details show that the journey by canoe was, for a time, peaceful and enjoyable?
+[CH4-Q14] (Comprehension — Source: GEM) How does the landscape change as the explorers move from the river toward the plateau?
+[CH4-Q15] (Comprehension — Source: El-Moaser) What animal did the explorers see disappear into the forest?
+[CH4-Q16] (Comprehension — Source: El-Moaser) What did the explorers see after crossing the ridge?
+[CH4-Q17] (Comprehension — Source: El-Moaser) What did the explorers use to get food and ammunition across the gap?
+[CH4-Q18] (Comprehension — Source: El-Moaser) Why does Summerlee refuse to accept that the flying creature is a pterodactyl?
+[CH4-Q19] (Comprehension — Source: El-Moaser) Explain how the equipment the explorers carry helps them continue their journey on foot.
+[CH4-Q20] (Comprehension — Source: Giants) Why are the local guides important to the expedition?
+
+◆ Analysis
+
+[CH4-Q21] (Analysis — Source: GEM + El-Moaser + Giants) How are Zambo and Gomez presented as contrasting examples of loyalty and betrayal?
+[CH4-Q22] (Analysis — Source: GEM + El-Moaser + Giants) Analyze how the sighting of the strange flying creature develops the conflict between evidence and scepticism.
+[CH4-Q23] (Analysis — Source: GEM) Analyze how Lord John's character is revealed through his actions during the climb and the confrontation with Gomez.
+[CH4-Q24] (Analysis — Source: GEM) Describe the order in which the explorers cross the bridge and what this might suggest about each character.
+[CH4-Q25] (Analysis — Source: GEM) How does Malone convey fear or tension while crossing the tree bridge?
+[CH4-Q26] (Analysis — Source: GEM) How does the text build suspense in the passage just before the bridge is destroyed?
+[CH4-Q27] (Analysis — Source: GEM) Analyze the significance of Zambo pulling supplies across using "a thin rope."
+[CH4-Q28] (Analysis — Source: El-Moaser + Giants) Explain how the cliffs provide evidence that Maple White's drawing was accurate.
+[CH4-Q29] (Analysis — Source: El-Moaser) Why does the journey become more difficult at each stage?
+[CH4-Q30] (Analysis — Source: El-Moaser) Compare Challenger's and Summerlee's responses after reaching the plateau.
+[CH4-Q31] (Analysis — Source: El-Moaser) Analyze how the description of the flying creature makes it seem unusual or frightening.
+[CH4-Q32] (Analysis — Source: El-Moaser) Analyze why the main cliff creates a serious obstacle for the explorers.
+[CH4-Q33] (Analysis — Source: GEM + El-Moaser) Analyze the difficulties the explorers face while traveling through the bamboo.
+[CH4-Q34] (Analysis — Source: Giants) Explain how Gomez's revenge connects the expedition to events from Lord John's past.
+[CH4-Q35] (Analysis — Source: Giants) Analyze how the difficult journey through the forest tests the explorers' determination.
+[CH4-Q36] (Analysis — Source: Giants) Explain why the explorers' arrival on the plateau is both a success and a new danger.
+[CH4-Q37] (Analysis — Source: Giants) Analyze what Lord John's reaction to the flying creature reveals about his character.
+[CH4-Q38] (Analysis — Source: Giants) Explain how the ending of the chapter creates suspense for the next chapter.
+
+◆ Critical / JRE
+
+[CH4-Q39] (Critical — Source: GEM + El-Moaser + Giants) Evaluate the explorers' decision to cross the tree bridge. Was the scientific goal worth the physical risk? Give reasons.
+[CH4-Q40] (Critical — Source: GEM + El-Moaser + Giants) Evaluate Challenger's decision to keep the expedition's location secret. Was this justified, or did it create unnecessary danger for the group?
+[CH4-Q41] (Critical — Source: GEM) Evaluate whether Challenger's excitement about the pterodactyl sighting was justified, given what happens later in the chapter.
+[CH4-Q42] (Critical — Source: GEM) Evaluate the ending of the chapter: does it leave the reader with hope or dread for the explorers' situation? Give reasons.
+[CH4-Q43] (Critical — Source: El-Moaser) If you were part of the expedition, what safety rule would you suggest before crossing the tree bridge?
+[CH4-Q44] (Critical — Source: El-Moaser) How should a group respond when its planned route becomes impossible?
+[CH4-Q45] (Critical — Source: El-Moaser) Should Lord John have trusted Gomez on the journey?
+[CH4-Q46] (Critical — Source: El-Moaser) Evaluate Lord John's reaction to the flying creature compared with Summerlee's. Which reaction seems more reasonable? Why?
+[CH4-Q47] (Critical — Source: El-Moaser) Evaluate Gomez's revelation about Pedro Lopez. How does it change your understanding of Gomez's actions?
+[CH4-Q48] (Critical — Source: El-Moaser + Giants) Evaluate Zambo's role in helping the trapped explorers. Why is his support important to their survival?
+[CH4-Q49] (Critical — Source: Giants) Evaluate Challenger's reaction when he finally reaches the plateau. What does it reveal about him?
+[CH4-Q50] (JRE — Source: GEM + El-Moaser + Giants) Does Zambo deserve to be considered one of the heroes of the expedition?
+[CH4-Q51] (JRE — Source: GEM + El-Moaser + Giants) Do Lord John's past actions help explain Gomez's betrayal?
+[CH4-Q52] (JRE — Source: GEM) Is Summerlee's attitude still useful after they reach the plateau?
+[CH4-Q53] (JRE — Source: GEM) Does Lord John show courage and self-control?
+[CH4-Q54] (JRE — Source: GEM) Was it wise to replace the steam launch with canoes?
+[CH4-Q55] (JRE — Source: GEM) Was Lord John right to stop Challenger and Summerlee from arguing?
+[CH4-Q56] (JRE — Source: GEM) Was reaching Maple White Land a success even though the explorers became trapped?
+[CH4-Q57] (JRE — Source: Giants) Is the explorers' decision to enter the plateau despite the dangers justified?
+[CH4-Q58] (JRE — Source: Giants) Can Gomez's actions be understood, even though they are wrong?
+[CH4-Q59] (JRE — Source: El-Moaser) What is the strongest cause of the group becoming trapped: the physical risk of the tree bridge or Gomez's deliberate action?
+
+◆ Quotes / MCQ / T-F
+
+[CH4-Q60] (Quote — Source: GEM) What does Summerlee's comment "We can begin it. I have not yet said how it will end" reveal about his character?
+[CH4-Q61] (Quote — Source: GEM) Analyze the significance of the line "So the past had followed us into the unknown."
+[CH4-Q62] (Quote — Source: GEM) Why does Lord John describe the coming danger as something with "bigger teeth"?
+
+--- CHAPTER 5: TRAPPED IN THE LOST WORLD ---
+Summary:
+- The explorers build the shelter "Fort Challenger" in a clearing surrounded by thorny branches and watch a peaceful herd of iguanodons feeding — Summerlee finally admits Challenger was right; a torn-apart plant-eater reveals that a large carnivorous dinosaur (possibly an allosaurus) lives nearby.
+- At the swampy basin they discover hundreds of pterodactyls with eggs and young; the creatures suddenly attack, wounding the explorers before they escape beneath the trees.
+- The camp is found ransacked — food tins crushed, an ammunition box broken, no clear footprints — so they keep two fires burning and take turns on watch, while daily contact with Zambo keeps hope of rescue alive.
+- Strange signs (vanishing food, a clicking call, a broad human-like footprint) make them feel watched by something strong and clever.
+- From a treetop Malone sees the plateau's broad central lake and smoke rising near distant caves — someone, or something, lives on the lost world.
+
+◆ Comprehension
+
+[CH5-Q1] (Comprehension — Source: GEM + El-Moaser + Giants) Explain how the iguanodons provide strong evidence that Challenger's story is true.
+[CH5-Q2] (Comprehension — Source: GEM + El-Moaser) Why does Summerlee finally accept Challenger's theory?
+[CH5-Q3] (Comprehension — Source: GEM + El-Moaser + Giants) What happens at the pterodactyl swamp, and why are the explorers forced to escape quickly?
+[CH5-Q4] (Comprehension — Source: El-Moaser) Explain what the scientists learn from observing the pterodactyls at the swamp.
+[CH5-Q5] (Comprehension — Source: El-Moaser) What was the explorers' first task?
+[CH5-Q6] (Comprehension — Source: El-Moaser + Giants) Explain why the explorers choose a safe place to build Fort Challenger.
+[CH5-Q7] (Comprehension — Source: GEM + El-Moaser + Giants) Explain what the damaged supplies at Fort Challenger suggest about another danger on the plateau.
+[CH5-Q8] (Comprehension — Source: GEM + El-Moaser + Giants) How does Lord John show that he is a practical member of the expedition?
+[CH5-Q9] (Comprehension — Source: GEM) Why are Challenger and Summerlee excited even when they are in danger?
+[CH5-Q10] (Comprehension — Source: El-Moaser) Why does Summerlee advise the group not to create a theory before finding evidence?
+[CH5-Q11] (Comprehension — Source: El-Moaser) Where did a pterodactyl stab Malone?
+[CH5-Q12] (Comprehension — Source: GEM + Giants) Why does the mysterious footprint increase the explorers' fear?
+[CH5-Q13] (Comprehension — Source: Giants) Explain why the explorers believe they may be watched.
+[CH5-Q14] (Comprehension — Source: El-Moaser) What did Malone notice near the caves?
+[CH5-Q15] (Comprehension — Source: GEM) How does Malone contribute to the expedition?
+
+◆ Analysis
+
+[CH5-Q16] (Analysis — Source: GEM + El-Moaser + Giants) Analyze how Summerlee's reaction to the prehistoric animals shows a change in his role as the expedition's sceptic.
+[CH5-Q17] (Analysis — Source: GEM + El-Moaser + Giants) How does the chapter present the lost world as both wonderful and dangerous?
+[CH5-Q18] (Analysis — Source: GEM + El-Moaser + Giants) Analyze the contrast between the scientists' excitement and Lord John's practical response during the pterodactyl encounter.
+[CH5-Q19] (Analysis — Source: GEM) Explain why Summerlee's acceptance of Challenger's theory is important to the expedition.
+[CH5-Q20] (Analysis — Source: GEM) Explain why the discovery of smoke is more mysterious than the discovery of dinosaurs.
+[CH5-Q21] (Analysis — Source: GEM) Explain how the mysterious footprint and disappearing food create suspense.
+[CH5-Q22] (Analysis — Source: GEM) Explain how the events of the chapter change the explorers' understanding of the plateau.
+[CH5-Q23] (Analysis — Source: El-Moaser) Analyze how the descriptions of the plants and insects show that the plateau is unusual.
+[CH5-Q24] (Analysis — Source: El-Moaser) Analyze how the iguanodons' physical features help the explorers identify them.
+[CH5-Q25] (Analysis — Source: El-Moaser) Analyze the clues that suggest a carnivorous dinosaur may be living nearby.
+[CH5-Q26] (Analysis — Source: El-Moaser) Analyze the clues that suggest people may be living on the plateau.
+[CH5-Q27] (Analysis — Source: Giants) Analyze what the iguanodons reveal about the importance of the plateau.
+
+◆ Critical / JRE
+
+[CH5-Q28] (Critical — Source: GEM + El-Moaser + Giants) Evaluate the explorers' decision to continue studying the plateau while they are trapped instead of focusing only on escape.
+[CH5-Q29] (Critical — Source: GEM + El-Moaser + Giants) Evaluate their decision to approach the pterodactyl rookery. Were they careful enough for the level of danger? Explain.
+[CH5-Q30] (Critical — Source: GEM) Evaluate Challenger's reaction after Summerlee admits that he was right.
+[CH5-Q31] (Critical — Source: GEM + El-Moaser) Evaluate Summerlee's change from a sceptic to an enthusiastic scientist.
+[CH5-Q32] (Critical — Source: GEM) Evaluate Malone's role as both a reporter and an explorer.
+[CH5-Q33] (Critical — Source: Giants) Evaluate Summerlee's advice not to create a theory without evidence.
+[CH5-Q34] (Critical — Source: El-Moaser) Is Summerlee right to remain interested in the pterodactyls after the attack? Why/Why not?
+[CH5-Q35] (Critical — Source: El-Moaser) Evaluate how the arguments between Challenger and Summerlee change after their discoveries on the plateau.
+[CH5-Q36] (Critical — Source: El-Moaser) What safety measures should the explorers take after discovering that an unknown creature entered their camp?
+[CH5-Q37] (Critical — Source: El-Moaser) How can a group balance scientific curiosity with personal safety?
+[CH5-Q38] (Critical — Source: El-Moaser) What should Malone record for a future report about the plateau?
+[CH5-Q39] (Critical — Source: El-Moaser) If you saw smoke in an unknown forest, what possibilities should you consider before approaching it?
+[CH5-Q40] (JRE — Source: GEM + El-Moaser + Giants) By the end of this chapter, has Challenger's scientific claim been fully proved to the other explorers?
+[CH5-Q41] (JRE — Source: GEM + El-Moaser + Giants) Is scientific curiosity shown as a strength or a danger in this chapter?
+[CH5-Q42] (JRE — Source: GEM + Giants) Does Summerlee's change of opinion show that he is a good scientist?
+[CH5-Q43] (JRE — Source: GEM + El-Moaser + Giants) Is Lord John's practical approach essential to the success of the expedition?
+[CH5-Q44] (JRE — Source: GEM) Does the damaged camp suggest that the explorers face a greater danger than they realize?
+[CH5-Q45] (JRE — Source: GEM + Giants) Does the discovery of smoke change the meaning of the explorers' expedition?
+[CH5-Q46] (JRE — Source: GEM + Giants) Has the expedition become more dangerous after the explorers discover the pterodactyls?
+[CH5-Q47] (JRE — Source: GEM) Is Challenger's confidence justified by the evidence he finds?
+[CH5-Q48] (JRE — Source: GEM) Does Lord John's behavior show that courage means taking risks or controlling them?
+[CH5-Q49] (JRE — Source: El-Moaser) How do scientific discovery and survival danger work together to produce the picture of the lost world?
+[CH5-Q50] (JRE — Source: El-Moaser) Who acts more responsibly in relation to responding to the pterodactyl attack: the two professors or Lord John?
+
+◆ Quotes / MCQ / T-F
+
+(No quote, MCQ, or True/False items for this chapter in the source pools.)
+
+==========================================================================================
+FILE SUMMARY
+- Total curated questions: 273 — CH1: 54 | CH2: 55 | CH3: 52 | CH4: 62 | CH5: 50
+- By type tag: Comprehension 86 | Analysis 73 | Critical 54 | JRE 54 | Quote 6 | MCQ 0 | T/F 0
+- Numbering: [CHx-Qn] restarts per chapter and runs continuously across all sections of that chapter
+  (Comprehension → Analysis → Critical / JRE → Quotes), ready for the companion answers file.
+- No question idea appears more than twice; identical cross-book questions were merged into single
+  entries with combined source labels (e.g. GEM + El-Moaser + Giants).
+END OF NOVEL QUESTION FILE
